@@ -408,19 +408,25 @@ function process_msg(topic, message){
   var splitted_topic = topic.split("/");
   var serial_number = splitted_topic[0];
   var query = splitted_topic[1];
-
-  if (query == "temp"){
+  var device_serie = $( "#device_id" ).val();
+  
+  if (query == "temp" && device_serie === serial_number){
     $("#display_temp1").html(msg);
+    console.log('Temperature from: ',serial_number);
+    console.log(msg);
   }
 
-  if (query == "access_query"){
+  if ((query == "access_query"  || query == "scholar_query" ) && device_serie === serial_number ){
+    var input_rfid = document.getElementById("rfid");
+    input_rfid.value = msg;
+    console.log('Access from: ',serial_number);
+    console.log(msg)
     $("#display_new_access").html("Nuevo acceso: " + msg);
     audio.play();
 
     setTimeout(function(){
       $("#display_new_access").html("");
     }, 3000);
-
   }
 }
 

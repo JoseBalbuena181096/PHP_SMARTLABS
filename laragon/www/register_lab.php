@@ -428,7 +428,7 @@ function process_msg(topic, message){
   var serial_number = splitted_topic[0];
   var query = splitted_topic[1];
 
-  if (query == "access_query" && device_serie === serial_number ){
+  if ((query == "access_query"  || query == "scholar_query" ) && device_serie === serial_number ){
     var input_rfid = document.getElementById("rfid");
     input_rfid.value = msg;
     $("#display_new_access").html("Nuevo acceso: " + msg);
@@ -437,19 +437,6 @@ function process_msg(topic, message){
     setTimeout(function(){
       $("#display_new_access").html("");
     }, 3000);
-
-  }
-
-  if (query == "scholar_query"  && device_serie === serial_number){
-    var input_rfid = document.getElementById("rfid");
-    input_rfid.value = msg;
-    $("#display_new_access").html("Nuevo acceso: " + msg);
-    //audio.play();
-
-    setTimeout(function(){
-      $("#display_new_access").html("");
-    }, 3000);
-
   }
 }
 
