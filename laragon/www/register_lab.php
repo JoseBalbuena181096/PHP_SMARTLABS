@@ -186,14 +186,6 @@ if( isset($_POST['email']) && isset($_POST['name']) && isset($_POST['registratio
                   <span class="nav-text">Estadísticas de equipos</span>
                 </a>
               </li>
-              <li>
-                <a href="becarios.php" >
-                  <span class="nav-icon">
-                    <i class="fa fa-user-plus"></i>
-                  </span>
-                  <span class="nav-text">Becarios</span>
-                </a>
-              </li>
             </ul>
           </nav>
         </div>
@@ -285,6 +277,18 @@ if( isset($_POST['email']) && isset($_POST['name']) && isset($_POST['registratio
         <!-- SECCION CENTRAL -->
         <div class="padding">
           <!-- VALORES EN TIEMPO REAL -->
+          <div class="row">
+          <div class="col-sm-12">
+            <div class="form-group">
+                <select  id="device_id" class="form-control select2" ui-jp="select2" ui-options="{theme: 'bootstrap'}">
+                  <?php foreach ($devices as $device ) { ?>
+                      <option value="<?php echo  $device['devices_serie']?>"> <?php echo $device['devices_alias'] ?> </option>
+                    <?php } ?>
+                  </select>
+                </div>
+              </div>
+          </div>
+
           <div class="row">
             <div class="col-sm-12">
                   <div class="box">
@@ -418,12 +422,13 @@ function command(action){
 
 var audio = new Audio('audio.mp3');
 function process_msg(topic, message){
+  var device_serie = $( "#device_id" ).val();
   var msg = message.toString();
   var splitted_topic = topic.split("/");
   var serial_number = splitted_topic[0];
   var query = splitted_topic[1];
 
-  if (query == "access_query"){
+  if (query == "access_query" && device_serie === serial_number ){
     var input_rfid = document.getElementById("rfid");
     input_rfid.value = msg;
     $("#display_new_access").html("Nuevo acceso: " + msg);
@@ -435,7 +440,7 @@ function process_msg(topic, message){
 
   }
 
-  if (query == "scholar_query"){
+  if (query == "scholar_query"  && device_serie === serial_number){
     var input_rfid = document.getElementById("rfid");
     input_rfid.value = msg;
     $("#display_new_access").html("Nuevo acceso: " + msg);
@@ -473,8 +478,10 @@ const client = mqtt.connect(WebSocket_URL, options);
 client.on('connect', () => {
     console.log('Mqtt conectado por WS! Exito!')
 
-    <?php foreach ($devices as $device) { ?>
-      client.subscribe('<?php echo $device['devices_serie'] ?>/+', { qos: 0 }, (error) => {})
+    <?php foreach ($devices as $device) { ?>      
+      client.subscribe('<?php echo $device['devices_serie'] ?>/access_query', { qos: 0 }, (error) => {})
+      client.subscribe('<?php echo $device['devices_serie'] ?>/scholar_query', { qos: 0 }, (error) => {})
+      
     <?php } ?>
 
     // publish(topic, payload, options/callback)

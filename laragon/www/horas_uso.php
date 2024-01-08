@@ -192,14 +192,6 @@ if (isset($_GET['serie_device']) && isset($_GET['start_date']) && isset($_GET['e
                   <span class="nav-text">Estadísticas de equipos</span>
                 </a>
               </li>
-              <li>
-                <a href="becarios.php" >
-                  <span class="nav-icon">
-                    <i class="fa fa-user-plus"></i>
-                  </span>
-                  <span class="nav-text">Becarios</span>
-                </a>
-              </li>
             </ul>
           </nav>
         </div>
