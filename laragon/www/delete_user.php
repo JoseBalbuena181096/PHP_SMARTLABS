@@ -351,7 +351,7 @@ if(isset($_POST['matricula'])){
 <script src="html/scripts/ajax.js"></script>
 
 <script src="libs/mqtt/dist/mqtt.min.js"></script>
-<script type="text/javascript">
+<script type="text/javascript" >
 
 /*
 ******************************

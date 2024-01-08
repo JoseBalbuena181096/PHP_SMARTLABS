@@ -277,8 +277,7 @@ if( isset($_POST['email']) && isset($_POST['name']) && isset($_POST['registratio
         <!-- SECCION CENTRAL -->
         <div class="padding">
           <!-- VALORES EN TIEMPO REAL -->
-          <div class="row">
-          <div class="col-sm-12">
+          <div class="row" style="margin-left:5px;">
             <div class="form-group">
                 <select  id="device_id" class="form-control select2" ui-jp="select2" ui-options="{theme: 'bootstrap'}">
                   <?php foreach ($devices as $device ) { ?>
@@ -286,7 +285,6 @@ if( isset($_POST['email']) && isset($_POST['name']) && isset($_POST['registratio
                     <?php } ?>
                   </select>
                 </div>
-              </div>
           </div>
 
           <div class="row">
@@ -384,13 +382,14 @@ if( isset($_POST['email']) && isset($_POST['name']) && isset($_POST['registratio
 <script src="html/scripts/ajax.js"></script>
 
 <script src="libs/mqtt/dist/mqtt.min.js"></script>
-<script type="text/javascript">
+<script type="text/javascript" >
 
 /*
 ******************************
 ****** PROCESOS  *************
 ******************************
 */
+
 function generarCadenaAleatoria(longitud) {
   const caracteres = '0123456789ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz';
   let cadenaAleatoria = '';
@@ -422,12 +421,11 @@ function command(action){
 
 var audio = new Audio('audio.mp3');
 function process_msg(topic, message){
-  var device_serie = $( "#device_id" ).val();
   var msg = message.toString();
   var splitted_topic = topic.split("/");
   var serial_number = splitted_topic[0];
   var query = splitted_topic[1];
-
+  var device_serie = $( "#device_id" ).val();
   if ((query == "access_query"  || query == "scholar_query" ) && device_serie === serial_number ){
     var input_rfid = document.getElementById("rfid");
     input_rfid.value = msg;
@@ -439,6 +437,7 @@ function process_msg(topic, message){
     }, 3000);
   }
 }
+
 
 /*
 ******************************
@@ -489,6 +488,8 @@ client.on('reconnect', (error) => {
 client.on('error', (error) => {
     console.log('Error de conexión:', error)
 })
+
+
 
 
 </script>

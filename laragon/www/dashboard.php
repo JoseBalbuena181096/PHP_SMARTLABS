@@ -417,13 +417,10 @@ function process_msg(topic, message){
   }
 
   if ((query == "access_query"  || query == "scholar_query" ) && device_serie === serial_number ){
-    var input_rfid = document.getElementById("rfid");
-    input_rfid.value = msg;
     console.log('Access from: ',serial_number);
     console.log(msg)
     $("#display_new_access").html("Nuevo acceso: " + msg);
     audio.play();
-
     setTimeout(function(){
       $("#display_new_access").html("");
     }, 3000);
