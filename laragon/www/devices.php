@@ -1,4 +1,5 @@
 <?php
+
 session_start();
 $logged = $_SESSION['logged'];
 
@@ -96,9 +97,8 @@ $devices = $result->fetch_all(MYSQLI_ASSOC);
               <li class="nav-header hidden-folded">
                 <small class="text-muted">MENÚ  IoT</small>
               </li>
-
               <li>
-                <a href="dashboard.php" >
+                <a href="javascript:void(0);" onclick="dashboardLab()" >
                   <span class="nav-icon">
                     <i class="fa fa-building-o"></i>
                   </span>
@@ -107,7 +107,7 @@ $devices = $result->fetch_all(MYSQLI_ASSOC);
               </li>
 
               <li>
-                <a href="devices.php" >
+                <a href="javascript:void(0);" onclick="devicesLab()">
                   <span class="nav-icon">
                     <i class="fa fa-cogs"></i>
                   </span>
@@ -115,7 +115,7 @@ $devices = $result->fetch_all(MYSQLI_ASSOC);
                 </a>
               </li>
               <li>
-                <a href="register_lab.php" >
+                <a href="javascript:void(0);" onclick="registerUserLab()">
                   <span class="nav-icon">
                     <i  class="fa fa-users" ></i>
                   </span>
@@ -123,7 +123,7 @@ $devices = $result->fetch_all(MYSQLI_ASSOC);
                 </a>
               </li>
               <li>
-                <a href="delete_user.php" >
+                <a href="javascript:void(0);" onclick="eliminarUsuario()" >
                   <span class="nav-icon">
                     <i class="fa fa-user-times"></i>
                   </span>
@@ -131,7 +131,7 @@ $devices = $result->fetch_all(MYSQLI_ASSOC);
                 </a>
               </li>
               <li>
-                <a href="horas_uso.php" >
+                <a a href="javascript:void(0);" onclick="horasUso()">
                   <span class="nav-icon">
                     <i class="fa fa-bar-chart"></i>
                   </span>
@@ -340,6 +340,31 @@ $devices = $result->fetch_all(MYSQLI_ASSOC);
 <!-- ajax -->
 <script src="libs/jquery/jquery-pjax/jquery.pjax.js"></script>
 <script src="html/scripts/ajax.js"></script>
+<script type="text/javascript">
+  function dashboardLab(){
+  window.location.href = "dashboard.php";
+}
+
+function devicesLab(){
+  window.location.href = "devices.php";
+}
+
+function registerUserLab(){
+  window.location.href = "register_lab.php";
+}
+
+function eliminarUsuario() {
+  // Realizar operaciones necesarias, como una solicitud AJAX
+  // Redirigir a la página deseada
+  window.location.href = "delete_user.php";
+}
+       
+function horasUso() {
+  // Realizar operaciones necesarias, como una solicitud AJAX
+  // Redirigir a la página deseada
+  window.location.href = "horas_uso.php";
+}
+</script>
 <!-- endbuild -->
 </body>
 </html>

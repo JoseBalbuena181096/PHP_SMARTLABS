@@ -1,4 +1,7 @@
 <?php
+// Punto en el que deseas la recarga
+header("Location: " . $_SERVER['PHP_SELF'], true, 300);
+
 session_start();
 $logged = $_SESSION['logged'];
 
@@ -98,7 +101,7 @@ if (isset($_GET['serie_device'])) {
               </li>
 
               <li>
-                <a href="dashboard.php" >
+                <a href="javascript:void(0);" onclick="dashboardLab()" >
                   <span class="nav-icon">
                     <i class="fa fa-building-o"></i>
                   </span>
@@ -107,7 +110,7 @@ if (isset($_GET['serie_device'])) {
               </li>
 
               <li>
-                <a href="devices.php" >
+                <a href="javascript:void(0);" onclick="devicesLab()">
                   <span class="nav-icon">
                     <i class="fa fa-cogs"></i>
                   </span>
@@ -115,7 +118,7 @@ if (isset($_GET['serie_device'])) {
                 </a>
               </li>
               <li>
-                <a href="register_lab.php" >
+                <a href="javascript:void(0);" onclick="registerUserLab()">
                   <span class="nav-icon">
                     <i  class="fa fa-users" ></i>
                   </span>
@@ -123,7 +126,7 @@ if (isset($_GET['serie_device'])) {
                 </a>
               </li>
               <li>
-                <a href="delete_user.php" >
+                <a href="javascript:void(0);" onclick="eliminarUsuario()" >
                   <span class="nav-icon">
                     <i class="fa fa-user-times"></i>
                   </span>
@@ -131,7 +134,7 @@ if (isset($_GET['serie_device'])) {
                 </a>
               </li>
               <li>
-                <a href="horas_uso.php" >
+                <a a href="javascript:void(0);" onclick="horasUso()">
                   <span class="nav-icon">
                     <i class="fa fa-bar-chart"></i>
                   </span>
@@ -373,6 +376,31 @@ if (isset($_GET['serie_device'])) {
 ****** PROCESOS  *************
 ******************************
 */
+
+function dashboardLab(){
+  window.location.href = "dashboard.php";
+}
+
+function devicesLab(){
+  window.location.href = "devices.php";
+}
+
+function registerUserLab(){
+  window.location.href = "register_lab.php";
+}
+
+function eliminarUsuario() {
+  // Realizar operaciones necesarias, como una solicitud AJAX
+  // Redirigir a la página deseada
+  window.location.href = "delete_user.php";
+}
+       
+function horasUso() {
+  // Realizar operaciones necesarias, como una solicitud AJAX
+  // Redirigir a la página deseada
+  window.location.href = "horas_uso.php";
+}
+
 function generarCadenaAleatoria(longitud) {
   const caracteres = '0123456789ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz';
   let cadenaAleatoria = '';
