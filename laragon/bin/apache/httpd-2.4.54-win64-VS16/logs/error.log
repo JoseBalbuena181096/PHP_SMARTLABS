@@ -1,0 +1,149 @@
+[Fri Nov 10 17:45:30.763629 2023] [mpm_winnt:notice] [pid 6188:tid 380] AH00455: Apache/2.4.54 (Win64) OpenSSL/1.1.1q PHP/8.1.10 configured -- resuming normal operations
+[Fri Nov 10 17:45:30.763629 2023] [mpm_winnt:notice] [pid 6188:tid 380] AH00456: Apache Lounge VS16 Server built: Jun 22 2022 09:58:15
+[Fri Nov 10 17:45:30.763629 2023] [core:notice] [pid 6188:tid 380] AH00094: Command line: 'C:\\smartlabs\\laragon\\bin\\apache\\httpd-2.4.54-win64-VS16\\bin\\httpd -d C:/smartlabs/laragon/bin/apache/httpd-2.4.54-win64-VS16'
+[Fri Nov 10 17:45:30.763629 2023] [mpm_winnt:notice] [pid 6188:tid 380] AH00418: Parent: Created child process 5000
+Apache server interrupted...
+023] [mpm_winnt:notice] [pid 5000:tid 360] AH00354: Child: Starting 64 worker threads.
+[Fri Nov 10 17:51:03.111114 2023] [mpm_winnt:notice] [pid 6188:tid 380] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Fri Nov 10 17:51:07.193513 2023] [core:warn] [pid 13100:tid 364] AH00098: pid file C:/smartlabs/laragon/bin/apache/httpd-2.4.54-win64-VS16/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Fri Nov 10 17:51:07.237247 2023] [mpm_winnt:notice] [pid 13100:tid 364] AH00455: Apache/2.4.54 (Win64) OpenSSL/1.1.1q PHP/8.1.10 configured -- resuming normal operations
+[Fri Nov 10 17:51:07.237247 2023] [mpm_winnt:notice] [pid 13100:tid 364] AH00456: Apache Lounge VS16 Server built: Jun 22 2022 09:58:15
+[Fri Nov 10 17:51:07.237247 2023] [core:notice] [pid 13100:tid 364] AH00094: Command line: 'C:\\smartlabs\\laragon\\bin\\apache\\httpd-2.4.54-win64-VS16\\bin\\httpd -d C:/smartlabs/laragon/bin/apache/httpd-2.4.54-win64-VS16'
+[Fri Nov 10 17:51:07.244881 2023] [mpm_winnt:notice] [pid 13100:tid 364] AH00418: Parent: Created child process 6240
+Apache server interrupted...
+023] [mpm_winnt:notice] [pid 6240:tid 360] AH00354: Child: Starting 64 worker threads.
+[Fri Nov 10 17:52:07.826948 2023] [mpm_winnt:notice] [pid 13100:tid 364] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Fri Nov 10 17:52:09.847763 2023] [mpm_winnt:notice] [pid 6240:tid 360] AH00364: Child: All worker threads have exited.
+[Fri Nov 10 17:53:40.348666 2023] [core:warn] [pid 8164:tid 372] AH00098: pid file C:/smartlabs/laragon/bin/apache/httpd-2.4.54-win64-VS16/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Fri Nov 10 17:53:40.420879 2023] [mpm_winnt:notice] [pid 8164:tid 372] AH00455: Apache/2.4.54 (Win64) OpenSSL/1.1.1q PHP/8.1.10 configured -- resuming normal operations
+[Fri Nov 10 17:53:40.420879 2023] [mpm_winnt:notice] [pid 8164:tid 372] AH00456: Apache Lounge VS16 Server built: Jun 22 2022 09:58:15
+[Fri Nov 10 17:53:40.420879 2023] [core:notice] [pid 8164:tid 372] AH00094: Command line: 'C:\\smartlabs\\laragon\\bin\\apache\\httpd-2.4.54-win64-VS16\\bin\\httpd -d C:/smartlabs/laragon/bin/apache/httpd-2.4.54-win64-VS16'
+[Fri Nov 10 17:53:40.434188 2023] [mpm_winnt:notice] [pid 8164:tid 372] AH00418: Parent: Created child process 11288
+[Fri Nov 10 17:53:41.314399 2023] [mpm_winnt:notice] [pid 11288:tid 384] AH00354: Child: Starting 64 worker threads.
+[Sat Nov 11 00:21:07.005702 2023] [mpm_winnt:notice] [pid 8164:tid 372] AH00428: Parent: child process 11288 exited with status 1073807364 -- Restarting.
+[Mon Nov 13 15:59:42.753479 2023] [core:warn] [pid 3912:tid 380] AH00098: pid file C:/smartlabs/laragon/bin/apache/httpd-2.4.54-win64-VS16/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Mon Nov 13 15:59:56.966019 2023] [mpm_winnt:notice] [pid 3912:tid 380] AH00455: Apache/2.4.54 (Win64) OpenSSL/1.1.1q PHP/8.1.10 configured -- resuming normal operations
+[Mon Nov 13 15:59:56.966019 2023] [mpm_winnt:notice] [pid 3912:tid 380] AH00456: Apache Lounge VS16 Server built: Jun 22 2022 09:58:15
+[Mon Nov 13 15:59:56.966019 2023] [core:notice] [pid 3912:tid 380] AH00094: Command line: 'C:\\smartlabs\\laragon\\bin\\apache\\httpd-2.4.54-win64-VS16\\bin\\httpd -d C:/smartlabs/laragon/bin/apache/httpd-2.4.54-win64-VS16'
+[Mon Nov 13 15:59:56.981534 2023] [mpm_winnt:notice] [pid 3912:tid 380] AH00418: Parent: Created child process 13020
+[Mon Nov 13 15:59:57.843777 2023] [mpm_winnt:notice] [pid 13020:tid 400] AH00354: Child: Starting 64 worker threads.
+[Wed Nov 15 09:46:14.639996 2023] [core:warn] [pid 11120:tid 368] AH00098: pid file C:/smartlabs/laragon/bin/apache/httpd-2.4.54-win64-VS16/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Wed Nov 15 09:46:16.216957 2023] [mpm_winnt:notice] [pid 11120:tid 368] AH00455: Apache/2.4.54 (Win64) OpenSSL/1.1.1q PHP/8.1.10 configured -- resuming normal operations
+[Wed Nov 15 09:46:16.216957 2023] [mpm_winnt:notice] [pid 11120:tid 368] AH00456: Apache Lounge VS16 Server built: Jun 22 2022 09:58:15
+[Wed Nov 15 09:46:16.216957 2023] [core:notice] [pid 11120:tid 368] AH00094: Command line: 'C:\\smartlabs\\laragon\\bin\\apache\\httpd-2.4.54-win64-VS16\\bin\\httpd -d C:/smartlabs/laragon/bin/apache/httpd-2.4.54-win64-VS16'
+[Wed Nov 15 09:46:16.216957 2023] [mpm_winnt:notice] [pid 11120:tid 368] AH00418: Parent: Created child process 11648
+[Wed Nov 15 09:46:18.782423 2023] [mpm_winnt:notice] [pid 11648:tid 352] AH00354: Child: Starting 64 worker threads.
+[Mon Nov 27 11:08:50.093615 2023] [core:warn] [pid 13192:tid 340] AH00098: pid file C:/smartlabs/laragon/bin/apache/httpd-2.4.54-win64-VS16/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Mon Nov 27 11:08:52.779554 2023] [mpm_winnt:notice] [pid 13192:tid 340] AH00455: Apache/2.4.54 (Win64) OpenSSL/1.1.1q PHP/8.1.10 configured -- resuming normal operations
+[Mon Nov 27 11:08:52.779554 2023] [mpm_winnt:notice] [pid 13192:tid 340] AH00456: Apache Lounge VS16 Server built: Jun 22 2022 09:58:15
+[Mon Nov 27 11:08:52.779554 2023] [core:notice] [pid 13192:tid 340] AH00094: Command line: 'C:\\smartlabs\\laragon\\bin\\apache\\httpd-2.4.54-win64-VS16\\bin\\httpd -d C:/smartlabs/laragon/bin/apache/httpd-2.4.54-win64-VS16'
+[Mon Nov 27 11:08:52.795213 2023] [mpm_winnt:notice] [pid 13192:tid 340] AH00418: Parent: Created child process 4760
+[Mon Nov 27 11:08:53.988348 2023] [mpm_winnt:notice] [pid 4760:tid 336] AH00354: Child: Starting 64 worker threads.
+[Thu Nov 30 15:45:42.727866 2023] [core:warn] [pid 10064:tid 356] AH00098: pid file C:/smartlabs/laragon/bin/apache/httpd-2.4.54-win64-VS16/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Thu Nov 30 15:45:45.827799 2023] [mpm_winnt:notice] [pid 10064:tid 356] AH00455: Apache/2.4.54 (Win64) OpenSSL/1.1.1q PHP/8.1.10 configured -- resuming normal operations
+[Thu Nov 30 15:45:45.827799 2023] [mpm_winnt:notice] [pid 10064:tid 356] AH00456: Apache Lounge VS16 Server built: Jun 22 2022 09:58:15
+[Thu Nov 30 15:45:45.827799 2023] [core:notice] [pid 10064:tid 356] AH00094: Command line: 'C:\\smartlabs\\laragon\\bin\\apache\\httpd-2.4.54-win64-VS16\\bin\\httpd -d C:/smartlabs/laragon/bin/apache/httpd-2.4.54-win64-VS16'
+[Thu Nov 30 15:45:45.843402 2023] [mpm_winnt:notice] [pid 10064:tid 356] AH00418: Parent: Created child process 10248
+[Thu Nov 30 15:45:46.939497 2023] [mpm_winnt:notice] [pid 10248:tid 360] AH00354: Child: Starting 64 worker threads.
+[Wed Dec 06 11:06:49.613898 2023] [php:error] [pid 10248:tid 1192] [client 192.168.0.100:54907] script 'C:/smartlabs/laragon/www/loginn.php' not found or unable to stat
+[Thu Dec 07 09:23:28.774661 2023] [core:warn] [pid 2488:tid 372] AH00098: pid file C:/smartlabs/laragon/bin/apache/httpd-2.4.54-win64-VS16/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Thu Dec 07 09:23:34.089062 2023] [mpm_winnt:notice] [pid 2488:tid 372] AH00455: Apache/2.4.54 (Win64) OpenSSL/1.1.1q PHP/8.1.10 configured -- resuming normal operations
+[Thu Dec 07 09:23:34.089062 2023] [mpm_winnt:notice] [pid 2488:tid 372] AH00456: Apache Lounge VS16 Server built: Jun 22 2022 09:58:15
+[Thu Dec 07 09:23:34.089062 2023] [core:notice] [pid 2488:tid 372] AH00094: Command line: 'C:\\smartlabs\\laragon\\bin\\apache\\httpd-2.4.54-win64-VS16\\bin\\httpd -d C:/smartlabs/laragon/bin/apache/httpd-2.4.54-win64-VS16'
+[Thu Dec 07 09:23:34.095065 2023] [mpm_winnt:notice] [pid 2488:tid 372] AH00418: Parent: Created child process 9984
+[Thu Dec 07 09:23:35.282701 2023] [mpm_winnt:notice] [pid 9984:tid 352] AH00354: Child: Starting 64 worker threads.
+[Fri Dec 08 17:02:17.269805 2023] [authz_core:error] [pid 9984:tid 1208] [client ::1:52999] AH01630: client denied by server configuration: C:/smartlabs/laragon/etc/apps/phpMyAdmin
+[Fri Dec 08 17:02:17.269805 2023] [authz_core:error] [pid 9984:tid 1228] [client ::1:52998] AH01630: client denied by server configuration: C:/smartlabs/laragon/etc/apps/phpMyAdmin
+[Fri Dec 08 17:02:17.269805 2023] [authz_core:error] [pid 9984:tid 1188] [client ::1:53000] AH01630: client denied by server configuration: C:/smartlabs/laragon/etc/apps/phpMyAdmin
+[Fri Dec 08 17:02:17.270328 2023] [authz_core:error] [pid 9984:tid 1176] [client ::1:53003] AH01630: client denied by server configuration: C:/smartlabs/laragon/etc/apps/phpMyAdmin
+[Fri Dec 08 17:02:17.270328 2023] [authz_core:error] [pid 9984:tid 1180] [client ::1:53002] AH01630: client denied by server configuration: C:/smartlabs/laragon/etc/apps/phpMyAdmin
+[Fri Dec 08 17:02:17.270328 2023] [authz_core:error] [pid 9984:tid 1184] [client ::1:53001] AH01630: client denied by server configuration: C:/smartlabs/laragon/etc/apps/phpMyAdmin
+[Fri Dec 08 17:02:17.272938 2023] [authz_core:error] [pid 9984:tid 1188] [client ::1:53000] AH01630: client denied by server configuration: C:/smartlabs/laragon/etc/apps/phpMyAdmin
+[Fri Dec 08 17:02:17.273938 2023] [authz_core:error] [pid 9984:tid 1200] [client ::1:52997] AH01630: client denied by server configuration: C:/smartlabs/laragon/etc/apps/phpMyAdmin
+[Fri Dec 08 17:02:17.274938 2023] [authz_core:error] [pid 9984:tid 1192] [client ::1:52994] AH01630: client denied by server configuration: C:/smartlabs/laragon/etc/apps/phpMyAdmin
+[Fri Dec 08 17:02:17.274938 2023] [authz_core:error] [pid 9984:tid 1204] [client ::1:52992] AH01630: client denied by server configuration: C:/smartlabs/laragon/etc/apps/phpMyAdmin
+[Fri Dec 08 17:02:17.274938 2023] [authz_core:error] [pid 9984:tid 1212] [client ::1:52995] AH01630: client denied by server configuration: C:/smartlabs/laragon/etc/apps/phpMyAdmin
+[Fri Dec 08 17:02:17.274938 2023] [authz_core:error] [pid 9984:tid 1216] [client ::1:52996] AH01630: client denied by server configuration: C:/smartlabs/laragon/etc/apps/phpMyAdmin
+[Fri Dec 08 17:02:17.274938 2023] [authz_core:error] [pid 9984:tid 1196] [client ::1:52993] AH01630: client denied by server configuration: C:/smartlabs/laragon/etc/apps/phpMyAdmin
+[Fri Dec 08 17:02:17.281536 2023] [authz_core:error] [pid 9984:tid 1216] [client ::1:53004] AH01630: client denied by server configuration: C:/smartlabs/laragon/etc/apps/phpMyAdmin
+[Fri Dec 08 17:02:18.008857 2023] [authz_core:error] [pid 9984:tid 1188] [client ::1:53000] AH01630: client denied by server configuration: C:/smartlabs/laragon/etc/apps/phpMyAdmin
+[Fri Dec 08 17:02:18.009554 2023] [authz_core:error] [pid 9984:tid 1180] [client ::1:53002] AH01630: client denied by server configuration: C:/smartlabs/laragon/etc/apps/phpMyAdmin
+[Fri Dec 08 17:02:18.009554 2023] [authz_core:error] [pid 9984:tid 1176] [client ::1:53003] AH01630: client denied by server configuration: C:/smartlabs/laragon/etc/apps/phpMyAdmin
+[Fri Dec 08 17:02:18.010599 2023] [authz_core:error] [pid 9984:tid 1184] [client ::1:53001] AH01630: client denied by server configuration: C:/smartlabs/laragon/etc/apps/phpMyAdmin
+[Fri Dec 08 17:02:18.010599 2023] [authz_core:error] [pid 9984:tid 1208] [client ::1:52999] AH01630: client denied by server configuration: C:/smartlabs/laragon/etc/apps/phpMyAdmin
+[Fri Dec 08 17:02:18.010599 2023] [authz_core:error] [pid 9984:tid 1228] [client ::1:52998] AH01630: client denied by server configuration: C:/smartlabs/laragon/etc/apps/phpMyAdmin
+[Fri Dec 08 17:02:18.011951 2023] [authz_core:error] [pid 9984:tid 1188] [client ::1:53000] AH01630: client denied by server configuration: C:/smartlabs/laragon/etc/apps/phpMyAdmin
+[Fri Dec 08 17:02:18.013907 2023] [authz_core:error] [pid 9984:tid 1196] [client ::1:53006] AH01630: client denied by server configuration: C:/smartlabs/laragon/etc/apps/phpMyAdmin
+[Fri Dec 08 17:02:18.013907 2023] [authz_core:error] [pid 9984:tid 1216] [client ::1:53005] AH01630: client denied by server configuration: C:/smartlabs/laragon/etc/apps/phpMyAdmin
+[Fri Dec 08 17:02:18.014907 2023] [authz_core:error] [pid 9984:tid 1212] [client ::1:53007] AH01630: client denied by server configuration: C:/smartlabs/laragon/etc/apps/phpMyAdmin
+[Fri Dec 08 17:02:18.014907 2023] [authz_core:error] [pid 9984:tid 1204] [client ::1:53008] AH01630: client denied by server configuration: C:/smartlabs/laragon/etc/apps/phpMyAdmin
+[Fri Dec 08 17:02:18.014907 2023] [authz_core:error] [pid 9984:tid 1192] [client ::1:53009] AH01630: client denied by server configuration: C:/smartlabs/laragon/etc/apps/phpMyAdmin
+[Fri Dec 08 17:02:18.016104 2023] [authz_core:error] [pid 9984:tid 1200] [client ::1:53010] AH01630: client denied by server configuration: C:/smartlabs/laragon/etc/apps/phpMyAdmin
+[Fri Dec 08 17:02:18.020277 2023] [authz_core:error] [pid 9984:tid 1212] [client ::1:53011] AH01630: client denied by server configuration: C:/smartlabs/laragon/etc/apps/phpMyAdmin
+[Fri Dec 08 17:02:18.275672 2023] [authz_core:error] [pid 9984:tid 1188] [client ::1:53000] AH01630: client denied by server configuration: C:/smartlabs/laragon/etc/apps/phpMyAdmin
+[Fri Dec 08 17:02:18.276673 2023] [authz_core:error] [pid 9984:tid 1228] [client ::1:52998] AH01630: client denied by server configuration: C:/smartlabs/laragon/etc/apps/phpMyAdmin
+[Fri Dec 08 17:02:18.276673 2023] [authz_core:error] [pid 9984:tid 1208] [client ::1:52999] AH01630: client denied by server configuration: C:/smartlabs/laragon/etc/apps/phpMyAdmin
+[Fri Dec 08 17:02:18.277671 2023] [authz_core:error] [pid 9984:tid 1184] [client ::1:53001] AH01630: client denied by server configuration: C:/smartlabs/laragon/etc/apps/phpMyAdmin
+[Fri Dec 08 17:02:18.277671 2023] [authz_core:error] [pid 9984:tid 1176] [client ::1:53003] AH01630: client denied by server configuration: C:/smartlabs/laragon/etc/apps/phpMyAdmin
+[Fri Dec 08 17:02:18.277671 2023] [authz_core:error] [pid 9984:tid 1180] [client ::1:53002] AH01630: client denied by server configuration: C:/smartlabs/laragon/etc/apps/phpMyAdmin
+[Fri Dec 08 17:02:18.278794 2023] [authz_core:error] [pid 9984:tid 1188] [client ::1:53000] AH01630: client denied by server configuration: C:/smartlabs/laragon/etc/apps/phpMyAdmin
+[Fri Dec 08 17:02:18.281572 2023] [authz_core:error] [pid 9984:tid 1196] [client ::1:53024] AH01630: client denied by server configuration: C:/smartlabs/laragon/etc/apps/phpMyAdmin
+[Fri Dec 08 17:02:18.281572 2023] [authz_core:error] [pid 9984:tid 1212] [client ::1:53019] AH01630: client denied by server configuration: C:/smartlabs/laragon/etc/apps/phpMyAdmin
+[Fri Dec 08 17:02:18.282619 2023] [authz_core:error] [pid 9984:tid 1192] [client ::1:53021] AH01630: client denied by server configuration: C:/smartlabs/laragon/etc/apps/phpMyAdmin
+[Fri Dec 08 17:02:18.282619 2023] [authz_core:error] [pid 9984:tid 1204] [client ::1:53022] AH01630: client denied by server configuration: C:/smartlabs/laragon/etc/apps/phpMyAdmin
+[Fri Dec 08 17:02:18.282619 2023] [authz_core:error] [pid 9984:tid 1216] [client ::1:53023] AH01630: client denied by server configuration: C:/smartlabs/laragon/etc/apps/phpMyAdmin
+[Fri Dec 08 17:02:18.282619 2023] [authz_core:error] [pid 9984:tid 1200] [client ::1:53020] AH01630: client denied by server configuration: C:/smartlabs/laragon/etc/apps/phpMyAdmin
+[Fri Dec 08 17:02:18.285624 2023] [authz_core:error] [pid 9984:tid 1196] [client ::1:53025] AH01630: client denied by server configuration: C:/smartlabs/laragon/etc/apps/phpMyAdmin
+[Fri Dec 08 17:02:18.823265 2023] [authz_core:error] [pid 9984:tid 1188] [client ::1:53000] AH01630: client denied by server configuration: C:/smartlabs/laragon/etc/apps/phpMyAdmin
+[Fri Dec 08 17:02:18.823265 2023] [authz_core:error] [pid 9984:tid 1176] [client ::1:53003] AH01630: client denied by server configuration: C:/smartlabs/laragon/etc/apps/phpMyAdmin
+[Fri Dec 08 17:02:18.824264 2023] [authz_core:error] [pid 9984:tid 1184] [client ::1:53001] AH01630: client denied by server configuration: C:/smartlabs/laragon/etc/apps/phpMyAdmin
+[Fri Dec 08 17:02:18.824264 2023] [authz_core:error] [pid 9984:tid 1208] [client ::1:52999] AH01630: client denied by server configuration: C:/smartlabs/laragon/etc/apps/phpMyAdmin
+[Fri Dec 08 17:02:18.824264 2023] [authz_core:error] [pid 9984:tid 1180] [client ::1:53002] AH01630: client denied by server configuration: C:/smartlabs/laragon/etc/apps/phpMyAdmin
+[Fri Dec 08 17:02:18.828058 2023] [authz_core:error] [pid 9984:tid 1208] [client ::1:52999] AH01630: client denied by server configuration: C:/smartlabs/laragon/etc/apps/phpMyAdmin
+[Fri Dec 08 17:02:18.855138 2023] [authz_core:error] [pid 9984:tid 1200] [client ::1:53029] AH01630: client denied by server configuration: C:/smartlabs/laragon/etc/apps/phpMyAdmin
+[Fri Dec 08 17:02:18.856138 2023] [authz_core:error] [pid 9984:tid 1216] [client ::1:53030] AH01630: client denied by server configuration: C:/smartlabs/laragon/etc/apps/phpMyAdmin
+[Fri Dec 08 17:02:18.856138 2023] [authz_core:error] [pid 9984:tid 1192] [client ::1:53032] AH01630: client denied by server configuration: C:/smartlabs/laragon/etc/apps/phpMyAdmin
+[Fri Dec 08 17:02:18.856138 2023] [authz_core:error] [pid 9984:tid 1212] [client ::1:53033] AH01630: client denied by server configuration: C:/smartlabs/laragon/etc/apps/phpMyAdmin
+[Fri Dec 08 17:02:18.857138 2023] [authz_core:error] [pid 9984:tid 1204] [client ::1:53031] AH01630: client denied by server configuration: C:/smartlabs/laragon/etc/apps/phpMyAdmin
+[Fri Dec 08 17:02:18.857138 2023] [authz_core:error] [pid 9984:tid 1196] [client ::1:53028] AH01630: client denied by server configuration: C:/smartlabs/laragon/etc/apps/phpMyAdmin
+[Fri Dec 08 17:02:18.863396 2023] [authz_core:error] [pid 9984:tid 1208] [client ::1:52999] AH01630: client denied by server configuration: C:/smartlabs/laragon/etc/apps/phpMyAdmin
+[Fri Dec 08 17:02:18.867405 2023] [authz_core:error] [pid 9984:tid 1196] [client ::1:53034] AH01630: client denied by server configuration: C:/smartlabs/laragon/etc/apps/phpMyAdmin
+[Tue Dec 12 11:36:26.889576 2023] [php:error] [pid 9984:tid 1184] [client 192.168.0.100:59484] script 'C:/smartlabs/laragon/www/register.phplogin.php' not found or unable to stat
+[Tue Dec 12 11:39:45.396094 2023] [php:error] [pid 9984:tid 1208] [client 192.168.0.100:59584] script 'C:/smartlabs/laragon/www/register.phplogin.php' not found or unable to stat
+[Tue Dec 12 11:41:52.147453 2023] [php:error] [pid 9984:tid 1228] [client 192.168.0.100:59618] script 'C:/smartlabs/laragon/www/register.phplogin.php' not found or unable to stat
+[Wed Dec 13 09:29:54.760920 2023] [core:warn] [pid 12376:tid 364] AH00098: pid file C:/smartlabs/laragon/bin/apache/httpd-2.4.54-win64-VS16/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Wed Dec 13 09:30:00.432857 2023] [mpm_winnt:notice] [pid 12376:tid 364] AH00455: Apache/2.4.54 (Win64) OpenSSL/1.1.1q PHP/8.1.10 configured -- resuming normal operations
+[Wed Dec 13 09:30:00.432947 2023] [mpm_winnt:notice] [pid 12376:tid 364] AH00456: Apache Lounge VS16 Server built: Jun 22 2022 09:58:15
+[Wed Dec 13 09:30:00.432947 2023] [core:notice] [pid 12376:tid 364] AH00094: Command line: 'C:\\smartlabs\\laragon\\bin\\apache\\httpd-2.4.54-win64-VS16\\bin\\httpd -d C:/smartlabs/laragon/bin/apache/httpd-2.4.54-win64-VS16'
+[Wed Dec 13 09:30:00.460684 2023] [mpm_winnt:notice] [pid 12376:tid 364] AH00418: Parent: Created child process 11528
+[Wed Dec 13 09:30:01.326551 2023] [mpm_winnt:notice] [pid 11528:tid 324] AH00354: Child: Starting 64 worker threads.
+[Tue Jan 02 10:51:06.139395 2024] [core:warn] [pid 8592:tid 352] AH00098: pid file C:/smartlabs/laragon/bin/apache/httpd-2.4.54-win64-VS16/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Tue Jan 02 10:51:09.215413 2024] [mpm_winnt:notice] [pid 8592:tid 352] AH00455: Apache/2.4.54 (Win64) OpenSSL/1.1.1q PHP/8.1.10 configured -- resuming normal operations
+[Tue Jan 02 10:51:09.215413 2024] [mpm_winnt:notice] [pid 8592:tid 352] AH00456: Apache Lounge VS16 Server built: Jun 22 2022 09:58:15
+[Tue Jan 02 10:51:09.215413 2024] [core:notice] [pid 8592:tid 352] AH00094: Command line: 'C:\\smartlabs\\laragon\\bin\\apache\\httpd-2.4.54-win64-VS16\\bin\\httpd -d C:/smartlabs/laragon/bin/apache/httpd-2.4.54-win64-VS16'
+[Tue Jan 02 10:51:09.223005 2024] [mpm_winnt:notice] [pid 8592:tid 352] AH00418: Parent: Created child process 10596
+[Tue Jan 02 10:51:10.341929 2024] [mpm_winnt:notice] [pid 10596:tid 360] AH00354: Child: Starting 64 worker threads.
+[Wed Jan 10 09:15:57.422244 2024] [core:warn] [pid 4592:tid 408] AH00098: pid file C:/smartlabs/laragon/bin/apache/httpd-2.4.54-win64-VS16/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Wed Jan 10 09:15:59.680178 2024] [mpm_winnt:notice] [pid 4592:tid 408] AH00455: Apache/2.4.54 (Win64) OpenSSL/1.1.1q PHP/8.1.10 configured -- resuming normal operations
+[Wed Jan 10 09:15:59.680178 2024] [mpm_winnt:notice] [pid 4592:tid 408] AH00456: Apache Lounge VS16 Server built: Jun 22 2022 09:58:15
+[Wed Jan 10 09:15:59.680178 2024] [core:notice] [pid 4592:tid 408] AH00094: Command line: 'C:\\smartlabs\\laragon\\bin\\apache\\httpd-2.4.54-win64-VS16\\bin\\httpd -d C:/smartlabs/laragon/bin/apache/httpd-2.4.54-win64-VS16'
+[Wed Jan 10 09:15:59.684852 2024] [mpm_winnt:notice] [pid 4592:tid 408] AH00418: Parent: Created child process 12588
+[Wed Jan 10 09:16:00.571635 2024] [mpm_winnt:notice] [pid 12588:tid 384] AH00354: Child: Starting 64 worker threads.
+[Mon Jan 29 10:35:21.255828 2024] [core:warn] [pid 6512:tid 392] AH00098: pid file C:/smartlabs/laragon/bin/apache/httpd-2.4.54-win64-VS16/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Mon Jan 29 10:35:24.396321 2024] [mpm_winnt:notice] [pid 6512:tid 392] AH00455: Apache/2.4.54 (Win64) OpenSSL/1.1.1q PHP/8.1.10 configured -- resuming normal operations
+[Mon Jan 29 10:35:24.396321 2024] [mpm_winnt:notice] [pid 6512:tid 392] AH00456: Apache Lounge VS16 Server built: Jun 22 2022 09:58:15
+[Mon Jan 29 10:35:24.397322 2024] [core:notice] [pid 6512:tid 392] AH00094: Command line: 'C:\\smartlabs\\laragon\\bin\\apache\\httpd-2.4.54-win64-VS16\\bin\\httpd -d C:/smartlabs/laragon/bin/apache/httpd-2.4.54-win64-VS16'
+[Mon Jan 29 10:35:24.404354 2024] [mpm_winnt:notice] [pid 6512:tid 392] AH00418: Parent: Created child process 8352
+Apache server interrupted...
+024] [mpm_winnt:notice] [pid 8352:tid 368] AH00354: Child: Starting 64 worker threads.
+[Tue Feb 06 11:37:18.157015 2024] [php:error] [pid 8352:tid 1264] [client 192.168.0.100:64989] script 'C:/smartlabs/laragon/www/login_users..php' not found or unable to stat
+[Wed Feb 07 12:43:44.882389 2024] [php:error] [pid 8352:tid 1264] [client 192.168.0.100:59411] script 'C:/smartlabs/laragon/www/login_user.php' not found or unable to stat
+[Wed Feb 07 12:43:49.183871 2024] [php:error] [pid 8352:tid 1264] [client 192.168.0.100:59411] script 'C:/smartlabs/laragon/www/login_user.php' not found or unable to stat
+[Wed Feb 07 13:16:26.072069 2024] [mpm_winnt:notice] [pid 6512:tid 392] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Wed Feb 07 13:16:28.085247 2024] [mpm_winnt:notice] [pid 8352:tid 368] AH00364: Child: All worker threads have exited.
+[Wed Feb 07 13:16:39.471313 2024] [core:warn] [pid 10144:tid 408] AH00098: pid file C:/smartlabs/laragon/bin/apache/httpd-2.4.54-win64-VS16/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Wed Feb 07 13:16:41.869211 2024] [mpm_winnt:notice] [pid 10144:tid 408] AH00455: Apache/2.4.54 (Win64) OpenSSL/1.1.1q PHP/8.1.10 configured -- resuming normal operations
+[Wed Feb 07 13:16:41.869211 2024] [mpm_winnt:notice] [pid 10144:tid 408] AH00456: Apache Lounge VS16 Server built: Jun 22 2022 09:58:15
+[Wed Feb 07 13:16:41.869211 2024] [core:notice] [pid 10144:tid 408] AH00094: Command line: 'C:\\smartlabs\\laragon\\bin\\apache\\httpd-2.4.54-win64-VS16\\bin\\httpd -d C:/smartlabs/laragon/bin/apache/httpd-2.4.54-win64-VS16'
+[Wed Feb 07 13:16:41.883885 2024] [mpm_winnt:notice] [pid 10144:tid 408] AH00418: Parent: Created child process 11380
+[Wed Feb 07 13:16:43.138279 2024] [mpm_winnt:notice] [pid 11380:tid 376] AH00354: Child: Starting 64 worker threads.

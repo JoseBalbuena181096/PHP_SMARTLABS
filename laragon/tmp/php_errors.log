@@ -1,0 +1,1265 @@
+[15-Nov-2023 15:46:22 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión in C:\smartlabs\laragon\www\dashboard.php:27
+Stack trace:
+#0 C:\smartlabs\laragon\www\dashboard.php(27): mysqli_connect('192.168.0.100', 'admin_iotcurso', '181096', 'emqx', '4000')
+#1 {main}
+  thrown in C:\smartlabs\laragon\www\dashboard.php on line 27
+[28-Nov-2023 22:47:00 UTC] PHP Warning:  Undefined array key "logged" in C:\smartlabs\laragon\www\register_lab.php on line 3
+[28-Nov-2023 22:47:01 UTC] PHP Warning:  Undefined array key "logged" in C:\smartlabs\laragon\www\register_lab.php on line 3
+[28-Nov-2023 22:47:04 UTC] PHP Warning:  Undefined array key "logged" in C:\smartlabs\laragon\www\register_lab.php on line 3
+[28-Nov-2023 23:44:28 UTC] PHP Warning:  Undefined array key "logged" in C:\smartlabs\laragon\www\register_lab.php on line 3
+[28-Nov-2023 23:44:29 UTC] PHP Warning:  Undefined array key "logged" in C:\smartlabs\laragon\www\register_lab.php on line 3
+[06-Dec-2023 17:26:29 UTC] PHP Warning:  Undefined variable $msg in C:\smartlabs\laragon\www\delete_user.php on line 46
+[06-Dec-2023 22:50:29 UTC] PHP Parse error:  syntax error, unexpected token "{" in C:\smartlabs\laragon\www\delete_user.php on line 40
+[06-Dec-2023 22:53:25 UTC] PHP Warning:  Undefined array key "registration" in C:\smartlabs\laragon\www\delete_user.php on line 40
+[06-Dec-2023 22:53:25 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "registration_" in C:\smartlabs\laragon\www\delete_user.php:41
+Stack trace:
+#0 {main}
+  thrown in C:\smartlabs\laragon\www\delete_user.php on line 41
+[06-Dec-2023 22:53:33 UTC] PHP Warning:  Undefined array key "registration" in C:\smartlabs\laragon\www\delete_user.php on line 40
+[06-Dec-2023 22:53:33 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "registration_" in C:\smartlabs\laragon\www\delete_user.php:41
+Stack trace:
+#0 {main}
+  thrown in C:\smartlabs\laragon\www\delete_user.php on line 41
+[06-Dec-2023 22:53:34 UTC] PHP Warning:  Undefined array key "registration" in C:\smartlabs\laragon\www\delete_user.php on line 40
+[06-Dec-2023 22:53:34 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "registration_" in C:\smartlabs\laragon\www\delete_user.php:41
+Stack trace:
+#0 {main}
+  thrown in C:\smartlabs\laragon\www\delete_user.php on line 41
+[06-Dec-2023 22:53:39 UTC] PHP Warning:  Undefined array key "registration" in C:\smartlabs\laragon\www\delete_user.php on line 40
+[06-Dec-2023 22:53:39 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "registration_" in C:\smartlabs\laragon\www\delete_user.php:41
+Stack trace:
+#0 {main}
+  thrown in C:\smartlabs\laragon\www\delete_user.php on line 41
+[06-Dec-2023 22:54:05 UTC] PHP Warning:  Undefined array key "registration" in C:\smartlabs\laragon\www\delete_user.php on line 37
+[06-Dec-2023 22:54:05 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "registration_" in C:\smartlabs\laragon\www\delete_user.php:38
+Stack trace:
+#0 {main}
+  thrown in C:\smartlabs\laragon\www\delete_user.php on line 38
+[06-Dec-2023 22:56:06 UTC] PHP Warning:  Undefined array key "register" in C:\smartlabs\laragon\www\delete_user.php on line 38
+[06-Dec-2023 22:56:12 UTC] PHP Warning:  Undefined variable $mysqli in C:\smartlabs\laragon\www\delete_user.php on line 47
+[06-Dec-2023 22:56:12 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in C:\smartlabs\laragon\www\delete_user.php:47
+Stack trace:
+#0 {main}
+  thrown in C:\smartlabs\laragon\www\delete_user.php on line 47
+[06-Dec-2023 22:56:29 UTC] PHP Warning:  Undefined variable $mysqli in C:\smartlabs\laragon\www\delete_user.php on line 47
+[06-Dec-2023 22:56:29 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in C:\smartlabs\laragon\www\delete_user.php:47
+Stack trace:
+#0 {main}
+  thrown in C:\smartlabs\laragon\www\delete_user.php on line 47
+[06-Dec-2023 22:56:34 UTC] PHP Warning:  Undefined variable $mysqli in C:\smartlabs\laragon\www\delete_user.php on line 47
+[06-Dec-2023 22:56:34 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in C:\smartlabs\laragon\www\delete_user.php:47
+Stack trace:
+#0 {main}
+  thrown in C:\smartlabs\laragon\www\delete_user.php on line 47
+[06-Dec-2023 22:58:04 UTC] PHP Warning:  Undefined array key "register" in C:\smartlabs\laragon\www\delete_user.php on line 38
+[06-Dec-2023 23:22:11 UTC] PHP Warning:  Undefined variable $cards in C:\smartlabs\laragon\www\delete_user.php on line 48
+[06-Dec-2023 23:22:11 UTC] PHP Fatal error:  Uncaught TypeError: count(): Argument #1 ($value) must be of type Countable|array, null given in C:\smartlabs\laragon\www\delete_user.php:48
+Stack trace:
+#0 {main}
+  thrown in C:\smartlabs\laragon\www\delete_user.php on line 48
+[06-Dec-2023 23:38:37 UTC] PHP Warning:  Undefined array key "id" in C:\smartlabs\laragon\www\delete_user.php on line 52
+[07-Dec-2023 16:56:15 UTC] PHP Warning:  Undefined array key "logged" in C:\smartlabs\laragon\www\delete_user.php on line 3
+[07-Dec-2023 17:05:17 UTC] PHP Parse error:  syntax error, unexpected identifier "en", expecting "," or ";" in C:\smartlabs\laragon\www\delete_user.php on line 80
+[07-Dec-2023 17:05:31 UTC] PHP Parse error:  syntax error, unexpected identifier "en", expecting "," or ";" in C:\smartlabs\laragon\www\delete_user.php on line 80
+[07-Dec-2023 17:05:50 UTC] PHP Parse error:  syntax error, unexpected identifier "en", expecting "," or ";" in C:\smartlabs\laragon\www\delete_user.php on line 80
+[07-Dec-2023 17:06:00 UTC] PHP Parse error:  syntax error, unexpected identifier "en", expecting "," or ";" in C:\smartlabs\laragon\www\delete_user.php on line 80
+[07-Dec-2023 17:06:08 UTC] PHP Parse error:  syntax error, unexpected identifier "en", expecting "," or ";" in C:\smartlabs\laragon\www\delete_user.php on line 80
+[08-Dec-2023 16:01:40 UTC] PHP Warning:  Undefined variable $habitants in C:\smartlabs\laragon\www\register_lab.php on line 307
+[08-Dec-2023 16:01:40 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in C:\smartlabs\laragon\www\register_lab.php on line 307
+[08-Dec-2023 16:04:04 UTC] PHP Warning:  foreach() argument must be of type array|object, string given in C:\smartlabs\laragon\www\register_lab.php on line 308
+[08-Dec-2023 16:08:20 UTC] PHP Parse error:  Unmatched '}' in C:\smartlabs\laragon\www\register_lab.php on line 320
+[11-Dec-2023 15:17:32 UTC] PHP Warning:  Undefined array key "logged" in C:\smartlabs\laragon\www\delete_user.php on line 3
+[11-Dec-2023 18:28:08 UTC] PHP Parse error:  syntax error, unexpected variable "$result" in C:\smartlabs\laragon\www\horas_uso.php on line 47
+[11-Dec-2023 18:28:10 UTC] PHP Parse error:  syntax error, unexpected variable "$result" in C:\smartlabs\laragon\www\horas_uso.php on line 47
+[11-Dec-2023 19:35:54 UTC] PHP Parse error:  syntax error, unexpected identifier "hrs", expecting "," or ";" in C:\smartlabs\laragon\www\horas_uso.php on line 346
+[12-Dec-2023 15:48:18 UTC] PHP Warning:  Array to string conversion in C:\smartlabs\laragon\www\horas_uso.php on line 334
+[12-Dec-2023 15:48:18 UTC] PHP Warning:  Undefined variable $Array in C:\smartlabs\laragon\www\horas_uso.php on line 334
+[12-Dec-2023 15:48:18 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\smartlabs\laragon\www\horas_uso.php on line 334
+[12-Dec-2023 15:48:18 UTC] PHP Warning:  Array to string conversion in C:\smartlabs\laragon\www\horas_uso.php on line 334
+[12-Dec-2023 15:48:18 UTC] PHP Warning:  Undefined variable $Array in C:\smartlabs\laragon\www\horas_uso.php on line 334
+[12-Dec-2023 15:48:18 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\smartlabs\laragon\www\horas_uso.php on line 334
+[12-Dec-2023 15:48:18 UTC] PHP Warning:  Array to string conversion in C:\smartlabs\laragon\www\horas_uso.php on line 334
+[12-Dec-2023 15:48:18 UTC] PHP Warning:  Undefined variable $Array in C:\smartlabs\laragon\www\horas_uso.php on line 334
+[12-Dec-2023 15:48:18 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\smartlabs\laragon\www\horas_uso.php on line 334
+[12-Dec-2023 15:48:18 UTC] PHP Warning:  Array to string conversion in C:\smartlabs\laragon\www\horas_uso.php on line 334
+[12-Dec-2023 15:48:18 UTC] PHP Warning:  Undefined variable $Array in C:\smartlabs\laragon\www\horas_uso.php on line 334
+[12-Dec-2023 15:48:18 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\smartlabs\laragon\www\horas_uso.php on line 334
+[12-Dec-2023 15:48:18 UTC] PHP Warning:  Array to string conversion in C:\smartlabs\laragon\www\horas_uso.php on line 334
+[12-Dec-2023 15:48:18 UTC] PHP Warning:  Undefined variable $Array in C:\smartlabs\laragon\www\horas_uso.php on line 334
+[12-Dec-2023 15:48:18 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\smartlabs\laragon\www\horas_uso.php on line 334
+[12-Dec-2023 15:48:18 UTC] PHP Warning:  Array to string conversion in C:\smartlabs\laragon\www\horas_uso.php on line 334
+[12-Dec-2023 15:48:18 UTC] PHP Warning:  Undefined variable $Array in C:\smartlabs\laragon\www\horas_uso.php on line 334
+[12-Dec-2023 15:48:18 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\smartlabs\laragon\www\horas_uso.php on line 334
+[12-Dec-2023 15:48:18 UTC] PHP Warning:  Array to string conversion in C:\smartlabs\laragon\www\horas_uso.php on line 334
+[12-Dec-2023 15:48:18 UTC] PHP Warning:  Undefined variable $Array in C:\smartlabs\laragon\www\horas_uso.php on line 334
+[12-Dec-2023 15:48:18 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\smartlabs\laragon\www\horas_uso.php on line 334
+[12-Dec-2023 15:48:18 UTC] PHP Warning:  Array to string conversion in C:\smartlabs\laragon\www\horas_uso.php on line 334
+[12-Dec-2023 15:48:18 UTC] PHP Warning:  Undefined variable $Array in C:\smartlabs\laragon\www\horas_uso.php on line 334
+[12-Dec-2023 15:48:18 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\smartlabs\laragon\www\horas_uso.php on line 334
+[12-Dec-2023 15:48:18 UTC] PHP Warning:  Array to string conversion in C:\smartlabs\laragon\www\horas_uso.php on line 334
+[12-Dec-2023 15:48:18 UTC] PHP Warning:  Undefined variable $Array in C:\smartlabs\laragon\www\horas_uso.php on line 334
+[12-Dec-2023 15:48:18 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\smartlabs\laragon\www\horas_uso.php on line 334
+[12-Dec-2023 15:48:18 UTC] PHP Warning:  Array to string conversion in C:\smartlabs\laragon\www\horas_uso.php on line 334
+[12-Dec-2023 15:48:18 UTC] PHP Warning:  Undefined variable $Array in C:\smartlabs\laragon\www\horas_uso.php on line 334
+[12-Dec-2023 15:48:18 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\smartlabs\laragon\www\horas_uso.php on line 334
+[12-Dec-2023 15:48:19 UTC] PHP Warning:  Array to string conversion in C:\smartlabs\laragon\www\horas_uso.php on line 334
+[12-Dec-2023 15:48:19 UTC] PHP Warning:  Undefined variable $Array in C:\smartlabs\laragon\www\horas_uso.php on line 334
+[12-Dec-2023 15:48:19 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\smartlabs\laragon\www\horas_uso.php on line 334
+[12-Dec-2023 15:48:19 UTC] PHP Warning:  Array to string conversion in C:\smartlabs\laragon\www\horas_uso.php on line 334
+[12-Dec-2023 15:48:19 UTC] PHP Warning:  Undefined variable $Array in C:\smartlabs\laragon\www\horas_uso.php on line 334
+[12-Dec-2023 15:48:19 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\smartlabs\laragon\www\horas_uso.php on line 334
+[12-Dec-2023 15:48:19 UTC] PHP Warning:  Array to string conversion in C:\smartlabs\laragon\www\horas_uso.php on line 334
+[12-Dec-2023 15:48:19 UTC] PHP Warning:  Undefined variable $Array in C:\smartlabs\laragon\www\horas_uso.php on line 334
+[12-Dec-2023 15:48:19 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\smartlabs\laragon\www\horas_uso.php on line 334
+[12-Dec-2023 15:48:19 UTC] PHP Warning:  Array to string conversion in C:\smartlabs\laragon\www\horas_uso.php on line 334
+[12-Dec-2023 15:48:19 UTC] PHP Warning:  Undefined variable $Array in C:\smartlabs\laragon\www\horas_uso.php on line 334
+[12-Dec-2023 15:48:19 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\smartlabs\laragon\www\horas_uso.php on line 334
+[12-Dec-2023 15:48:19 UTC] PHP Warning:  Array to string conversion in C:\smartlabs\laragon\www\horas_uso.php on line 334
+[12-Dec-2023 15:48:19 UTC] PHP Warning:  Undefined variable $Array in C:\smartlabs\laragon\www\horas_uso.php on line 334
+[12-Dec-2023 15:48:19 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\smartlabs\laragon\www\horas_uso.php on line 334
+[12-Dec-2023 15:48:19 UTC] PHP Warning:  Array to string conversion in C:\smartlabs\laragon\www\horas_uso.php on line 334
+[12-Dec-2023 15:48:19 UTC] PHP Warning:  Undefined variable $Array in C:\smartlabs\laragon\www\horas_uso.php on line 334
+[12-Dec-2023 15:48:19 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\smartlabs\laragon\www\horas_uso.php on line 334
+[12-Dec-2023 15:48:19 UTC] PHP Warning:  Array to string conversion in C:\smartlabs\laragon\www\horas_uso.php on line 334
+[12-Dec-2023 15:48:19 UTC] PHP Warning:  Undefined variable $Array in C:\smartlabs\laragon\www\horas_uso.php on line 334
+[12-Dec-2023 15:48:19 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\smartlabs\laragon\www\horas_uso.php on line 334
+[12-Dec-2023 15:48:19 UTC] PHP Warning:  Array to string conversion in C:\smartlabs\laragon\www\horas_uso.php on line 334
+[12-Dec-2023 15:48:19 UTC] PHP Warning:  Undefined variable $Array in C:\smartlabs\laragon\www\horas_uso.php on line 334
+[12-Dec-2023 15:48:19 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\smartlabs\laragon\www\horas_uso.php on line 334
+[12-Dec-2023 15:48:19 UTC] PHP Warning:  Array to string conversion in C:\smartlabs\laragon\www\horas_uso.php on line 334
+[12-Dec-2023 15:48:19 UTC] PHP Warning:  Undefined variable $Array in C:\smartlabs\laragon\www\horas_uso.php on line 334
+[12-Dec-2023 15:48:19 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\smartlabs\laragon\www\horas_uso.php on line 334
+[12-Dec-2023 18:24:26 UTC] PHP Warning:  Undefined variable $conn in C:\smartlabs\laragon\www\becarios.php on line 31
+[12-Dec-2023 18:24:26 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in C:\smartlabs\laragon\www\becarios.php:31
+Stack trace:
+#0 {main}
+  thrown in C:\smartlabs\laragon\www\becarios.php on line 31
+[12-Dec-2023 19:08:27 UTC] PHP Warning:  Undefined array key "matricula" in C:\smartlabs\laragon\www\becarios.php on line 74
+[12-Dec-2023 19:08:27 UTC] PHP Deprecated:  strip_tags(): Passing null to parameter #1 ($string) of type string is deprecated in C:\smartlabs\laragon\www\becarios.php on line 74
+[12-Dec-2023 20:08:32 UTC] PHP Parse error:  syntax error, unexpected token "=" in C:\smartlabs\laragon\www\becarios.php on line 380
+[12-Dec-2023 20:08:57 UTC] PHP Parse error:  syntax error, unexpected token "=" in C:\smartlabs\laragon\www\becarios.php on line 380
+[12-Dec-2023 20:10:46 UTC] PHP Warning:  Undefined variable $0 in C:\smartlabs\laragon\www\becarios.php on line 380
+[12-Dec-2023 20:10:46 UTC] PHP Warning:  Undefined variable $0 in C:\smartlabs\laragon\www\becarios.php on line 380
+[12-Dec-2023 20:10:46 UTC] PHP Warning:  Undefined variable $0 in C:\smartlabs\laragon\www\becarios.php on line 380
+[12-Dec-2023 20:10:46 UTC] PHP Warning:  Undefined variable $0 in C:\smartlabs\laragon\www\becarios.php on line 380
+[12-Dec-2023 20:10:46 UTC] PHP Warning:  Undefined variable $0 in C:\smartlabs\laragon\www\becarios.php on line 380
+[12-Dec-2023 20:10:46 UTC] PHP Warning:  Undefined variable $0 in C:\smartlabs\laragon\www\becarios.php on line 380
+[12-Dec-2023 20:10:46 UTC] PHP Warning:  Undefined variable $0 in C:\smartlabs\laragon\www\becarios.php on line 380
+[12-Dec-2023 20:10:46 UTC] PHP Warning:  Undefined variable $0 in C:\smartlabs\laragon\www\becarios.php on line 380
+[12-Dec-2023 20:10:46 UTC] PHP Warning:  Undefined variable $0 in C:\smartlabs\laragon\www\becarios.php on line 380
+[12-Dec-2023 20:10:46 UTC] PHP Warning:  Undefined variable $0 in C:\smartlabs\laragon\www\becarios.php on line 380
+[12-Dec-2023 20:10:46 UTC] PHP Warning:  Undefined variable $0 in C:\smartlabs\laragon\www\becarios.php on line 380
+[12-Dec-2023 20:10:46 UTC] PHP Warning:  Undefined variable $0 in C:\smartlabs\laragon\www\becarios.php on line 380
+[12-Dec-2023 20:10:46 UTC] PHP Warning:  Undefined variable $0 in C:\smartlabs\laragon\www\becarios.php on line 380
+[12-Dec-2023 20:10:46 UTC] PHP Warning:  Undefined variable $0 in C:\smartlabs\laragon\www\becarios.php on line 380
+[12-Dec-2023 20:10:46 UTC] PHP Warning:  Undefined variable $0 in C:\smartlabs\laragon\www\becarios.php on line 380
+[12-Dec-2023 20:10:46 UTC] PHP Warning:  Undefined variable $0 in C:\smartlabs\laragon\www\becarios.php on line 380
+[12-Dec-2023 20:11:48 UTC] PHP Parse error:  syntax error, unexpected token "=" in C:\smartlabs\laragon\www\becarios.php on line 380
+[12-Dec-2023 20:12:12 UTC] PHP Parse error:  syntax error, unexpected token "&&" in C:\smartlabs\laragon\www\becarios.php on line 381
+[12-Dec-2023 20:12:24 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "time_now" in C:\smartlabs\laragon\www\becarios.php:380
+Stack trace:
+#0 {main}
+  thrown in C:\smartlabs\laragon\www\becarios.php on line 380
+[12-Dec-2023 21:03:10 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "time_now" in C:\smartlabs\laragon\www\becarios.php:380
+Stack trace:
+#0 {main}
+  thrown in C:\smartlabs\laragon\www\becarios.php on line 380
+[12-Dec-2023 22:12:23 UTC] PHP Parse error:  syntax error, unexpected token "<" in C:\smartlabs\laragon\www\becarios.php on line 381
+[12-Dec-2023 22:13:19 UTC] PHP Parse error:  syntax error, unexpected token "<" in C:\smartlabs\laragon\www\becarios.php on line 382
+[12-Dec-2023 22:15:04 UTC] PHP Parse error:  syntax error, unexpected token "<" in C:\smartlabs\laragon\www\becarios.php on line 379
+[12-Dec-2023 23:03:26 UTC] PHP Warning:  Undefined variable $traffic in C:\smartlabs\laragon\www\becarios.php on line 383
+[12-Dec-2023 23:03:26 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\smartlabs\laragon\www\becarios.php on line 383
+[12-Dec-2023 23:03:26 UTC] PHP Warning:  Undefined variable $traffic in C:\smartlabs\laragon\www\becarios.php on line 385
+[12-Dec-2023 23:03:26 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\smartlabs\laragon\www\becarios.php on line 385
+[12-Dec-2023 23:03:26 UTC] PHP Warning:  Undefined variable $traffic in C:\smartlabs\laragon\www\becarios.php on line 386
+[12-Dec-2023 23:03:26 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\smartlabs\laragon\www\becarios.php on line 386
+[12-Dec-2023 23:03:26 UTC] PHP Warning:  Undefined variable $traffic in C:\smartlabs\laragon\www\becarios.php on line 387
+[12-Dec-2023 23:03:26 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\smartlabs\laragon\www\becarios.php on line 387
+[12-Dec-2023 23:03:26 UTC] PHP Warning:  Undefined variable $traffic in C:\smartlabs\laragon\www\becarios.php on line 388
+[12-Dec-2023 23:03:26 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\smartlabs\laragon\www\becarios.php on line 388
+[12-Dec-2023 23:03:26 UTC] PHP Warning:  Undefined variable $traffic in C:\smartlabs\laragon\www\becarios.php on line 383
+[12-Dec-2023 23:03:26 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\smartlabs\laragon\www\becarios.php on line 383
+[12-Dec-2023 23:03:26 UTC] PHP Warning:  Undefined variable $traffic in C:\smartlabs\laragon\www\becarios.php on line 385
+[12-Dec-2023 23:03:26 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\smartlabs\laragon\www\becarios.php on line 385
+[12-Dec-2023 23:03:26 UTC] PHP Warning:  Undefined variable $traffic in C:\smartlabs\laragon\www\becarios.php on line 386
+[12-Dec-2023 23:03:26 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\smartlabs\laragon\www\becarios.php on line 386
+[12-Dec-2023 23:03:26 UTC] PHP Warning:  Undefined variable $traffic in C:\smartlabs\laragon\www\becarios.php on line 387
+[12-Dec-2023 23:03:26 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\smartlabs\laragon\www\becarios.php on line 387
+[12-Dec-2023 23:03:26 UTC] PHP Warning:  Undefined variable $traffic in C:\smartlabs\laragon\www\becarios.php on line 388
+[12-Dec-2023 23:03:26 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\smartlabs\laragon\www\becarios.php on line 388
+[12-Dec-2023 23:03:26 UTC] PHP Warning:  Undefined variable $traffic in C:\smartlabs\laragon\www\becarios.php on line 383
+[12-Dec-2023 23:03:26 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\smartlabs\laragon\www\becarios.php on line 383
+[12-Dec-2023 23:03:26 UTC] PHP Warning:  Undefined variable $traffic in C:\smartlabs\laragon\www\becarios.php on line 385
+[12-Dec-2023 23:03:26 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\smartlabs\laragon\www\becarios.php on line 385
+[12-Dec-2023 23:03:26 UTC] PHP Warning:  Undefined variable $traffic in C:\smartlabs\laragon\www\becarios.php on line 386
+[12-Dec-2023 23:03:26 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\smartlabs\laragon\www\becarios.php on line 386
+[12-Dec-2023 23:03:26 UTC] PHP Warning:  Undefined variable $traffic in C:\smartlabs\laragon\www\becarios.php on line 387
+[12-Dec-2023 23:03:26 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\smartlabs\laragon\www\becarios.php on line 387
+[12-Dec-2023 23:03:26 UTC] PHP Warning:  Undefined variable $traffic in C:\smartlabs\laragon\www\becarios.php on line 388
+[12-Dec-2023 23:03:26 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\smartlabs\laragon\www\becarios.php on line 388
+[12-Dec-2023 23:03:26 UTC] PHP Warning:  Undefined variable $traffic in C:\smartlabs\laragon\www\becarios.php on line 383
+[12-Dec-2023 23:03:26 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\smartlabs\laragon\www\becarios.php on line 383
+[12-Dec-2023 23:03:26 UTC] PHP Warning:  Undefined variable $traffic in C:\smartlabs\laragon\www\becarios.php on line 385
+[12-Dec-2023 23:03:26 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\smartlabs\laragon\www\becarios.php on line 385
+[12-Dec-2023 23:03:26 UTC] PHP Warning:  Undefined variable $traffic in C:\smartlabs\laragon\www\becarios.php on line 386
+[12-Dec-2023 23:03:26 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\smartlabs\laragon\www\becarios.php on line 386
+[12-Dec-2023 23:03:26 UTC] PHP Warning:  Undefined variable $traffic in C:\smartlabs\laragon\www\becarios.php on line 387
+[12-Dec-2023 23:03:26 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\smartlabs\laragon\www\becarios.php on line 387
+[12-Dec-2023 23:03:26 UTC] PHP Warning:  Undefined variable $traffic in C:\smartlabs\laragon\www\becarios.php on line 388
+[12-Dec-2023 23:03:26 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\smartlabs\laragon\www\becarios.php on line 388
+[12-Dec-2023 23:03:26 UTC] PHP Warning:  Undefined variable $traffic in C:\smartlabs\laragon\www\becarios.php on line 383
+[12-Dec-2023 23:03:26 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\smartlabs\laragon\www\becarios.php on line 383
+[12-Dec-2023 23:03:26 UTC] PHP Warning:  Undefined variable $traffic in C:\smartlabs\laragon\www\becarios.php on line 385
+[12-Dec-2023 23:03:26 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\smartlabs\laragon\www\becarios.php on line 385
+[12-Dec-2023 23:03:26 UTC] PHP Warning:  Undefined variable $traffic in C:\smartlabs\laragon\www\becarios.php on line 386
+[12-Dec-2023 23:03:26 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\smartlabs\laragon\www\becarios.php on line 386
+[12-Dec-2023 23:03:26 UTC] PHP Warning:  Undefined variable $traffic in C:\smartlabs\laragon\www\becarios.php on line 387
+[12-Dec-2023 23:03:26 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\smartlabs\laragon\www\becarios.php on line 387
+[12-Dec-2023 23:03:26 UTC] PHP Warning:  Undefined variable $traffic in C:\smartlabs\laragon\www\becarios.php on line 388
+[12-Dec-2023 23:03:26 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\smartlabs\laragon\www\becarios.php on line 388
+[12-Dec-2023 23:03:26 UTC] PHP Warning:  Undefined variable $traffic in C:\smartlabs\laragon\www\becarios.php on line 383
+[12-Dec-2023 23:03:26 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\smartlabs\laragon\www\becarios.php on line 383
+[12-Dec-2023 23:03:26 UTC] PHP Warning:  Undefined variable $traffic in C:\smartlabs\laragon\www\becarios.php on line 385
+[12-Dec-2023 23:03:26 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\smartlabs\laragon\www\becarios.php on line 385
+[12-Dec-2023 23:03:26 UTC] PHP Warning:  Undefined variable $traffic in C:\smartlabs\laragon\www\becarios.php on line 386
+[12-Dec-2023 23:03:26 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\smartlabs\laragon\www\becarios.php on line 386
+[12-Dec-2023 23:03:26 UTC] PHP Warning:  Undefined variable $traffic in C:\smartlabs\laragon\www\becarios.php on line 387
+[12-Dec-2023 23:03:26 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\smartlabs\laragon\www\becarios.php on line 387
+[12-Dec-2023 23:03:26 UTC] PHP Warning:  Undefined variable $traffic in C:\smartlabs\laragon\www\becarios.php on line 388
+[12-Dec-2023 23:03:26 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\smartlabs\laragon\www\becarios.php on line 388
+[12-Dec-2023 23:03:26 UTC] PHP Warning:  Undefined variable $traffic in C:\smartlabs\laragon\www\becarios.php on line 383
+[12-Dec-2023 23:03:26 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\smartlabs\laragon\www\becarios.php on line 383
+[12-Dec-2023 23:03:26 UTC] PHP Warning:  Undefined variable $traffic in C:\smartlabs\laragon\www\becarios.php on line 385
+[12-Dec-2023 23:03:26 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\smartlabs\laragon\www\becarios.php on line 385
+[12-Dec-2023 23:03:26 UTC] PHP Warning:  Undefined variable $traffic in C:\smartlabs\laragon\www\becarios.php on line 386
+[12-Dec-2023 23:03:26 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\smartlabs\laragon\www\becarios.php on line 386
+[12-Dec-2023 23:03:26 UTC] PHP Warning:  Undefined variable $traffic in C:\smartlabs\laragon\www\becarios.php on line 387
+[12-Dec-2023 23:03:26 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\smartlabs\laragon\www\becarios.php on line 387
+[12-Dec-2023 23:03:26 UTC] PHP Warning:  Undefined variable $traffic in C:\smartlabs\laragon\www\becarios.php on line 388
+[12-Dec-2023 23:03:26 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\smartlabs\laragon\www\becarios.php on line 388
+[12-Dec-2023 23:03:26 UTC] PHP Warning:  Undefined variable $traffic in C:\smartlabs\laragon\www\becarios.php on line 383
+[12-Dec-2023 23:03:26 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\smartlabs\laragon\www\becarios.php on line 383
+[12-Dec-2023 23:03:26 UTC] PHP Warning:  Undefined variable $traffic in C:\smartlabs\laragon\www\becarios.php on line 385
+[12-Dec-2023 23:03:26 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\smartlabs\laragon\www\becarios.php on line 385
+[12-Dec-2023 23:03:26 UTC] PHP Warning:  Undefined variable $traffic in C:\smartlabs\laragon\www\becarios.php on line 386
+[12-Dec-2023 23:03:26 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\smartlabs\laragon\www\becarios.php on line 386
+[12-Dec-2023 23:03:26 UTC] PHP Warning:  Undefined variable $traffic in C:\smartlabs\laragon\www\becarios.php on line 387
+[12-Dec-2023 23:03:26 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\smartlabs\laragon\www\becarios.php on line 387
+[12-Dec-2023 23:03:26 UTC] PHP Warning:  Undefined variable $traffic in C:\smartlabs\laragon\www\becarios.php on line 388
+[12-Dec-2023 23:03:26 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\smartlabs\laragon\www\becarios.php on line 388
+[12-Dec-2023 23:03:26 UTC] PHP Warning:  Undefined variable $traffic in C:\smartlabs\laragon\www\becarios.php on line 383
+[12-Dec-2023 23:03:26 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\smartlabs\laragon\www\becarios.php on line 383
+[12-Dec-2023 23:03:26 UTC] PHP Warning:  Undefined variable $traffic in C:\smartlabs\laragon\www\becarios.php on line 385
+[12-Dec-2023 23:03:26 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\smartlabs\laragon\www\becarios.php on line 385
+[12-Dec-2023 23:03:26 UTC] PHP Warning:  Undefined variable $traffic in C:\smartlabs\laragon\www\becarios.php on line 386
+[12-Dec-2023 23:03:26 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\smartlabs\laragon\www\becarios.php on line 386
+[12-Dec-2023 23:03:26 UTC] PHP Warning:  Undefined variable $traffic in C:\smartlabs\laragon\www\becarios.php on line 387
+[12-Dec-2023 23:03:26 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\smartlabs\laragon\www\becarios.php on line 387
+[12-Dec-2023 23:03:26 UTC] PHP Warning:  Undefined variable $traffic in C:\smartlabs\laragon\www\becarios.php on line 388
+[12-Dec-2023 23:03:26 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\smartlabs\laragon\www\becarios.php on line 388
+[12-Dec-2023 23:03:26 UTC] PHP Warning:  Undefined variable $traffic in C:\smartlabs\laragon\www\becarios.php on line 383
+[12-Dec-2023 23:03:26 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\smartlabs\laragon\www\becarios.php on line 383
+[12-Dec-2023 23:03:26 UTC] PHP Warning:  Undefined variable $traffic in C:\smartlabs\laragon\www\becarios.php on line 385
+[12-Dec-2023 23:03:26 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\smartlabs\laragon\www\becarios.php on line 385
+[12-Dec-2023 23:03:26 UTC] PHP Warning:  Undefined variable $traffic in C:\smartlabs\laragon\www\becarios.php on line 386
+[12-Dec-2023 23:03:26 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\smartlabs\laragon\www\becarios.php on line 386
+[12-Dec-2023 23:03:26 UTC] PHP Warning:  Undefined variable $traffic in C:\smartlabs\laragon\www\becarios.php on line 387
+[12-Dec-2023 23:03:26 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\smartlabs\laragon\www\becarios.php on line 387
+[12-Dec-2023 23:03:26 UTC] PHP Warning:  Undefined variable $traffic in C:\smartlabs\laragon\www\becarios.php on line 388
+[12-Dec-2023 23:03:26 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\smartlabs\laragon\www\becarios.php on line 388
+[12-Dec-2023 23:03:26 UTC] PHP Warning:  Undefined variable $traffic in C:\smartlabs\laragon\www\becarios.php on line 383
+[12-Dec-2023 23:03:26 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\smartlabs\laragon\www\becarios.php on line 383
+[12-Dec-2023 23:03:26 UTC] PHP Warning:  Undefined variable $traffic in C:\smartlabs\laragon\www\becarios.php on line 385
+[12-Dec-2023 23:03:26 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\smartlabs\laragon\www\becarios.php on line 385
+[12-Dec-2023 23:03:26 UTC] PHP Warning:  Undefined variable $traffic in C:\smartlabs\laragon\www\becarios.php on line 386
+[12-Dec-2023 23:03:26 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\smartlabs\laragon\www\becarios.php on line 386
+[12-Dec-2023 23:03:26 UTC] PHP Warning:  Undefined variable $traffic in C:\smartlabs\laragon\www\becarios.php on line 387
+[12-Dec-2023 23:03:26 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\smartlabs\laragon\www\becarios.php on line 387
+[12-Dec-2023 23:03:26 UTC] PHP Warning:  Undefined variable $traffic in C:\smartlabs\laragon\www\becarios.php on line 388
+[12-Dec-2023 23:03:26 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\smartlabs\laragon\www\becarios.php on line 388
+[12-Dec-2023 23:03:26 UTC] PHP Warning:  Undefined variable $traffic in C:\smartlabs\laragon\www\becarios.php on line 383
+[12-Dec-2023 23:03:26 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\smartlabs\laragon\www\becarios.php on line 383
+[12-Dec-2023 23:03:26 UTC] PHP Warning:  Undefined variable $traffic in C:\smartlabs\laragon\www\becarios.php on line 385
+[12-Dec-2023 23:03:26 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\smartlabs\laragon\www\becarios.php on line 385
+[12-Dec-2023 23:03:26 UTC] PHP Warning:  Undefined variable $traffic in C:\smartlabs\laragon\www\becarios.php on line 386
+[12-Dec-2023 23:03:26 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\smartlabs\laragon\www\becarios.php on line 386
+[12-Dec-2023 23:03:26 UTC] PHP Warning:  Undefined variable $traffic in C:\smartlabs\laragon\www\becarios.php on line 387
+[12-Dec-2023 23:03:26 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\smartlabs\laragon\www\becarios.php on line 387
+[12-Dec-2023 23:03:26 UTC] PHP Warning:  Undefined variable $traffic in C:\smartlabs\laragon\www\becarios.php on line 388
+[12-Dec-2023 23:03:26 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\smartlabs\laragon\www\becarios.php on line 388
+[12-Dec-2023 23:03:26 UTC] PHP Warning:  Undefined variable $traffic in C:\smartlabs\laragon\www\becarios.php on line 383
+[12-Dec-2023 23:03:26 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\smartlabs\laragon\www\becarios.php on line 383
+[12-Dec-2023 23:03:26 UTC] PHP Warning:  Undefined variable $traffic in C:\smartlabs\laragon\www\becarios.php on line 385
+[12-Dec-2023 23:03:26 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\smartlabs\laragon\www\becarios.php on line 385
+[12-Dec-2023 23:03:26 UTC] PHP Warning:  Undefined variable $traffic in C:\smartlabs\laragon\www\becarios.php on line 386
+[12-Dec-2023 23:03:26 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\smartlabs\laragon\www\becarios.php on line 386
+[12-Dec-2023 23:03:26 UTC] PHP Warning:  Undefined variable $traffic in C:\smartlabs\laragon\www\becarios.php on line 387
+[12-Dec-2023 23:03:26 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\smartlabs\laragon\www\becarios.php on line 387
+[12-Dec-2023 23:03:26 UTC] PHP Warning:  Undefined variable $traffic in C:\smartlabs\laragon\www\becarios.php on line 388
+[12-Dec-2023 23:03:26 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\smartlabs\laragon\www\becarios.php on line 388
+[12-Dec-2023 23:03:26 UTC] PHP Warning:  Undefined variable $traffic in C:\smartlabs\laragon\www\becarios.php on line 383
+[12-Dec-2023 23:03:26 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\smartlabs\laragon\www\becarios.php on line 383
+[12-Dec-2023 23:03:26 UTC] PHP Warning:  Undefined variable $traffic in C:\smartlabs\laragon\www\becarios.php on line 385
+[12-Dec-2023 23:03:26 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\smartlabs\laragon\www\becarios.php on line 385
+[12-Dec-2023 23:03:26 UTC] PHP Warning:  Undefined variable $traffic in C:\smartlabs\laragon\www\becarios.php on line 386
+[12-Dec-2023 23:03:26 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\smartlabs\laragon\www\becarios.php on line 386
+[12-Dec-2023 23:03:26 UTC] PHP Warning:  Undefined variable $traffic in C:\smartlabs\laragon\www\becarios.php on line 387
+[12-Dec-2023 23:03:26 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\smartlabs\laragon\www\becarios.php on line 387
+[12-Dec-2023 23:03:26 UTC] PHP Warning:  Undefined variable $traffic in C:\smartlabs\laragon\www\becarios.php on line 388
+[12-Dec-2023 23:03:26 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\smartlabs\laragon\www\becarios.php on line 388
+[12-Dec-2023 23:03:26 UTC] PHP Warning:  Undefined variable $traffic in C:\smartlabs\laragon\www\becarios.php on line 383
+[12-Dec-2023 23:03:26 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\smartlabs\laragon\www\becarios.php on line 383
+[12-Dec-2023 23:03:26 UTC] PHP Warning:  Undefined variable $traffic in C:\smartlabs\laragon\www\becarios.php on line 385
+[12-Dec-2023 23:03:26 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\smartlabs\laragon\www\becarios.php on line 385
+[12-Dec-2023 23:03:26 UTC] PHP Warning:  Undefined variable $traffic in C:\smartlabs\laragon\www\becarios.php on line 386
+[12-Dec-2023 23:03:26 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\smartlabs\laragon\www\becarios.php on line 386
+[12-Dec-2023 23:03:26 UTC] PHP Warning:  Undefined variable $traffic in C:\smartlabs\laragon\www\becarios.php on line 387
+[12-Dec-2023 23:03:26 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\smartlabs\laragon\www\becarios.php on line 387
+[12-Dec-2023 23:03:26 UTC] PHP Warning:  Undefined variable $traffic in C:\smartlabs\laragon\www\becarios.php on line 388
+[12-Dec-2023 23:03:26 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\smartlabs\laragon\www\becarios.php on line 388
+[12-Dec-2023 23:03:26 UTC] PHP Warning:  Undefined variable $traffic in C:\smartlabs\laragon\www\becarios.php on line 383
+[12-Dec-2023 23:03:26 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\smartlabs\laragon\www\becarios.php on line 383
+[12-Dec-2023 23:03:26 UTC] PHP Warning:  Undefined variable $traffic in C:\smartlabs\laragon\www\becarios.php on line 385
+[12-Dec-2023 23:03:26 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\smartlabs\laragon\www\becarios.php on line 385
+[12-Dec-2023 23:03:26 UTC] PHP Warning:  Undefined variable $traffic in C:\smartlabs\laragon\www\becarios.php on line 386
+[12-Dec-2023 23:03:26 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\smartlabs\laragon\www\becarios.php on line 386
+[12-Dec-2023 23:03:26 UTC] PHP Warning:  Undefined variable $traffic in C:\smartlabs\laragon\www\becarios.php on line 387
+[12-Dec-2023 23:03:26 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\smartlabs\laragon\www\becarios.php on line 387
+[12-Dec-2023 23:03:26 UTC] PHP Warning:  Undefined variable $traffic in C:\smartlabs\laragon\www\becarios.php on line 388
+[12-Dec-2023 23:03:26 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\smartlabs\laragon\www\becarios.php on line 388
+[12-Dec-2023 23:03:26 UTC] PHP Warning:  Undefined variable $traffic in C:\smartlabs\laragon\www\becarios.php on line 383
+[12-Dec-2023 23:03:26 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\smartlabs\laragon\www\becarios.php on line 383
+[12-Dec-2023 23:03:26 UTC] PHP Warning:  Undefined variable $traffic in C:\smartlabs\laragon\www\becarios.php on line 385
+[12-Dec-2023 23:03:26 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\smartlabs\laragon\www\becarios.php on line 385
+[12-Dec-2023 23:03:26 UTC] PHP Warning:  Undefined variable $traffic in C:\smartlabs\laragon\www\becarios.php on line 386
+[12-Dec-2023 23:03:26 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\smartlabs\laragon\www\becarios.php on line 386
+[12-Dec-2023 23:03:26 UTC] PHP Warning:  Undefined variable $traffic in C:\smartlabs\laragon\www\becarios.php on line 387
+[12-Dec-2023 23:03:26 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\smartlabs\laragon\www\becarios.php on line 387
+[12-Dec-2023 23:03:26 UTC] PHP Warning:  Undefined variable $traffic in C:\smartlabs\laragon\www\becarios.php on line 388
+[12-Dec-2023 23:03:26 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\smartlabs\laragon\www\becarios.php on line 388
+[12-Dec-2023 23:03:26 UTC] PHP Warning:  Undefined variable $traffic in C:\smartlabs\laragon\www\becarios.php on line 383
+[12-Dec-2023 23:03:26 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\smartlabs\laragon\www\becarios.php on line 383
+[12-Dec-2023 23:03:26 UTC] PHP Warning:  Undefined variable $traffic in C:\smartlabs\laragon\www\becarios.php on line 385
+[12-Dec-2023 23:03:26 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\smartlabs\laragon\www\becarios.php on line 385
+[12-Dec-2023 23:03:26 UTC] PHP Warning:  Undefined variable $traffic in C:\smartlabs\laragon\www\becarios.php on line 386
+[12-Dec-2023 23:03:26 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\smartlabs\laragon\www\becarios.php on line 386
+[12-Dec-2023 23:03:26 UTC] PHP Warning:  Undefined variable $traffic in C:\smartlabs\laragon\www\becarios.php on line 387
+[12-Dec-2023 23:03:26 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\smartlabs\laragon\www\becarios.php on line 387
+[12-Dec-2023 23:03:26 UTC] PHP Warning:  Undefined variable $traffic in C:\smartlabs\laragon\www\becarios.php on line 388
+[12-Dec-2023 23:03:26 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\smartlabs\laragon\www\becarios.php on line 388
+[12-Dec-2023 23:16:39 UTC] PHP Fatal error:  Uncaught Error: Object of class DateInterval could not be converted to string in C:\smartlabs\laragon\www\becarios.php:386
+Stack trace:
+#0 {main}
+  thrown in C:\smartlabs\laragon\www\becarios.php on line 386
+[12-Dec-2023 23:17:17 UTC] PHP Fatal error:  Uncaught Error: Object of class DateInterval could not be converted to string in C:\smartlabs\laragon\www\becarios.php:386
+Stack trace:
+#0 {main}
+  thrown in C:\smartlabs\laragon\www\becarios.php on line 386
+[12-Dec-2023 23:17:20 UTC] PHP Fatal error:  Uncaught Error: Object of class DateInterval could not be converted to string in C:\smartlabs\laragon\www\becarios.php:386
+Stack trace:
+#0 {main}
+  thrown in C:\smartlabs\laragon\www\becarios.php on line 386
+[12-Dec-2023 23:18:26 UTC] PHP Fatal error:  Uncaught Error: Object of class DateTime could not be converted to string in C:\smartlabs\laragon\www\becarios.php:386
+Stack trace:
+#0 {main}
+  thrown in C:\smartlabs\laragon\www\becarios.php on line 386
+[12-Dec-2023 23:19:50 UTC] PHP Fatal error:  Uncaught Error: Object of class DateInterval could not be converted to string in C:\smartlabs\laragon\www\becarios.php:386
+Stack trace:
+#0 {main}
+  thrown in C:\smartlabs\laragon\www\becarios.php on line 386
+[12-Dec-2023 23:19:53 UTC] PHP Fatal error:  Uncaught Error: Object of class DateInterval could not be converted to string in C:\smartlabs\laragon\www\becarios.php:386
+Stack trace:
+#0 {main}
+  thrown in C:\smartlabs\laragon\www\becarios.php on line 386
+[12-Dec-2023 23:21:06 UTC] PHP Warning:  Undefined variable $delta_dayl in C:\smartlabs\laragon\www\becarios.php on line 386
+[12-Dec-2023 23:21:06 UTC] PHP Fatal error:  Uncaught Error: Call to a member function format() on null in C:\smartlabs\laragon\www\becarios.php:386
+Stack trace:
+#0 {main}
+  thrown in C:\smartlabs\laragon\www\becarios.php on line 386
+[12-Dec-2023 23:25:14 UTC] PHP Warning:  Undefined variable $day_end in C:\smartlabs\laragon\www\becarios.php on line 389
+[12-Dec-2023 23:25:14 UTC] PHP Warning:  Undefined variable $day_end in C:\smartlabs\laragon\www\becarios.php on line 389
+[12-Dec-2023 23:25:14 UTC] PHP Warning:  Undefined variable $day_end in C:\smartlabs\laragon\www\becarios.php on line 389
+[12-Dec-2023 23:25:14 UTC] PHP Warning:  Undefined variable $day_end in C:\smartlabs\laragon\www\becarios.php on line 389
+[12-Dec-2023 23:25:14 UTC] PHP Warning:  Undefined variable $day_end in C:\smartlabs\laragon\www\becarios.php on line 389
+[12-Dec-2023 23:25:14 UTC] PHP Warning:  Undefined variable $day_end in C:\smartlabs\laragon\www\becarios.php on line 389
+[12-Dec-2023 23:25:14 UTC] PHP Warning:  Undefined variable $day_end in C:\smartlabs\laragon\www\becarios.php on line 389
+[12-Dec-2023 23:25:14 UTC] PHP Warning:  Undefined variable $day_end in C:\smartlabs\laragon\www\becarios.php on line 389
+[12-Dec-2023 23:25:14 UTC] PHP Warning:  Undefined variable $day_end in C:\smartlabs\laragon\www\becarios.php on line 389
+[12-Dec-2023 23:25:14 UTC] PHP Warning:  Undefined array key 19 in C:\smartlabs\laragon\www\becarios.php on line 388
+[12-Dec-2023 23:25:14 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\smartlabs\laragon\www\becarios.php on line 388
+[12-Dec-2023 23:25:14 UTC] PHP Warning:  Undefined variable $day_end in C:\smartlabs\laragon\www\becarios.php on line 389
+[12-Dec-2023 23:25:14 UTC] PHP Warning:  Undefined array key 19 in C:\smartlabs\laragon\www\becarios.php on line 390
+[12-Dec-2023 23:25:14 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\smartlabs\laragon\www\becarios.php on line 390
+[12-Dec-2023 23:25:14 UTC] PHP Warning:  Undefined array key 19 in C:\smartlabs\laragon\www\becarios.php on line 391
+[12-Dec-2023 23:25:14 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\smartlabs\laragon\www\becarios.php on line 391
+[12-Dec-2023 23:25:14 UTC] PHP Warning:  Undefined array key 19 in C:\smartlabs\laragon\www\becarios.php on line 392
+[12-Dec-2023 23:25:14 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\smartlabs\laragon\www\becarios.php on line 392
+[12-Dec-2023 23:25:14 UTC] PHP Warning:  Undefined array key 19 in C:\smartlabs\laragon\www\becarios.php on line 393
+[12-Dec-2023 23:25:14 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\smartlabs\laragon\www\becarios.php on line 393
+[12-Dec-2023 23:25:31 UTC] PHP Warning:  Undefined array key 19 in C:\smartlabs\laragon\www\becarios.php on line 388
+[12-Dec-2023 23:25:31 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\smartlabs\laragon\www\becarios.php on line 388
+[12-Dec-2023 23:25:31 UTC] PHP Warning:  Undefined array key 19 in C:\smartlabs\laragon\www\becarios.php on line 390
+[12-Dec-2023 23:25:31 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\smartlabs\laragon\www\becarios.php on line 390
+[12-Dec-2023 23:25:31 UTC] PHP Warning:  Undefined array key 19 in C:\smartlabs\laragon\www\becarios.php on line 391
+[12-Dec-2023 23:25:31 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\smartlabs\laragon\www\becarios.php on line 391
+[12-Dec-2023 23:25:31 UTC] PHP Warning:  Undefined array key 19 in C:\smartlabs\laragon\www\becarios.php on line 392
+[12-Dec-2023 23:25:31 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\smartlabs\laragon\www\becarios.php on line 392
+[12-Dec-2023 23:25:31 UTC] PHP Warning:  Undefined array key 19 in C:\smartlabs\laragon\www\becarios.php on line 393
+[12-Dec-2023 23:25:31 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\smartlabs\laragon\www\becarios.php on line 393
+[12-Dec-2023 23:25:36 UTC] PHP Warning:  Undefined array key 19 in C:\smartlabs\laragon\www\becarios.php on line 388
+[12-Dec-2023 23:25:36 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\smartlabs\laragon\www\becarios.php on line 388
+[12-Dec-2023 23:25:36 UTC] PHP Warning:  Undefined array key 19 in C:\smartlabs\laragon\www\becarios.php on line 390
+[12-Dec-2023 23:25:36 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\smartlabs\laragon\www\becarios.php on line 390
+[12-Dec-2023 23:25:36 UTC] PHP Warning:  Undefined array key 19 in C:\smartlabs\laragon\www\becarios.php on line 391
+[12-Dec-2023 23:25:36 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\smartlabs\laragon\www\becarios.php on line 391
+[12-Dec-2023 23:25:36 UTC] PHP Warning:  Undefined array key 19 in C:\smartlabs\laragon\www\becarios.php on line 392
+[12-Dec-2023 23:25:36 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\smartlabs\laragon\www\becarios.php on line 392
+[12-Dec-2023 23:25:36 UTC] PHP Warning:  Undefined array key 19 in C:\smartlabs\laragon\www\becarios.php on line 393
+[12-Dec-2023 23:25:36 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\smartlabs\laragon\www\becarios.php on line 393
+[12-Dec-2023 23:27:22 UTC] PHP Warning:  Undefined array key 19 in C:\smartlabs\laragon\www\becarios.php on line 388
+[12-Dec-2023 23:27:22 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\smartlabs\laragon\www\becarios.php on line 388
+[12-Dec-2023 23:27:22 UTC] PHP Warning:  Undefined array key 19 in C:\smartlabs\laragon\www\becarios.php on line 390
+[12-Dec-2023 23:27:22 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\smartlabs\laragon\www\becarios.php on line 390
+[12-Dec-2023 23:27:22 UTC] PHP Warning:  Undefined array key 19 in C:\smartlabs\laragon\www\becarios.php on line 391
+[12-Dec-2023 23:27:22 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\smartlabs\laragon\www\becarios.php on line 391
+[12-Dec-2023 23:27:22 UTC] PHP Warning:  Undefined array key 19 in C:\smartlabs\laragon\www\becarios.php on line 392
+[12-Dec-2023 23:27:22 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\smartlabs\laragon\www\becarios.php on line 392
+[12-Dec-2023 23:27:22 UTC] PHP Warning:  Undefined array key 19 in C:\smartlabs\laragon\www\becarios.php on line 393
+[12-Dec-2023 23:27:22 UTC] PHP Warning:  Trying to access array offset on value of type null in C:\smartlabs\laragon\www\becarios.php on line 393
+[12-Dec-2023 23:32:09 UTC] PHP Parse error:  syntax error, unexpected token "<" in C:\smartlabs\laragon\www\becarios.php on line 391
+[12-Dec-2023 23:34:36 UTC] PHP Parse error:  syntax error, unexpected token "++", expecting ")" in C:\smartlabs\laragon\www\becarios.php on line 390
+[05-Jan-2024 22:21:19 UTC] PHP Warning:  Undefined array key "traffic_devices" in C:\smartlabs\laragon\www\becarios.php on line 399
+[05-Jan-2024 22:21:19 UTC] PHP Warning:  Undefined array key "traffic_devices" in C:\smartlabs\laragon\www\becarios.php on line 399
+[05-Jan-2024 22:21:19 UTC] PHP Warning:  Undefined array key "traffic_devices" in C:\smartlabs\laragon\www\becarios.php on line 399
+[05-Jan-2024 22:21:19 UTC] PHP Warning:  Undefined array key "traffic_devices" in C:\smartlabs\laragon\www\becarios.php on line 399
+[05-Jan-2024 22:21:19 UTC] PHP Warning:  Undefined array key "traffic_devices" in C:\smartlabs\laragon\www\becarios.php on line 399
+[05-Jan-2024 22:21:19 UTC] PHP Warning:  Undefined array key "traffic_devices" in C:\smartlabs\laragon\www\becarios.php on line 399
+[05-Jan-2024 22:21:19 UTC] PHP Warning:  Undefined array key "traffic_devices" in C:\smartlabs\laragon\www\becarios.php on line 399
+[05-Jan-2024 22:21:19 UTC] PHP Warning:  Undefined array key "traffic_devices" in C:\smartlabs\laragon\www\becarios.php on line 399
+[05-Jan-2024 22:21:19 UTC] PHP Warning:  Undefined array key "traffic_devices" in C:\smartlabs\laragon\www\becarios.php on line 399
+[05-Jan-2024 22:21:19 UTC] PHP Warning:  Undefined array key "traffic_devices" in C:\smartlabs\laragon\www\becarios.php on line 399
+[05-Jan-2024 22:21:19 UTC] PHP Warning:  Undefined array key "traffic_devices" in C:\smartlabs\laragon\www\becarios.php on line 399
+[05-Jan-2024 22:21:19 UTC] PHP Warning:  Undefined array key "traffic_devices" in C:\smartlabs\laragon\www\becarios.php on line 399
+[05-Jan-2024 22:21:19 UTC] PHP Warning:  Undefined array key "traffic_devices" in C:\smartlabs\laragon\www\becarios.php on line 399
+[05-Jan-2024 22:21:19 UTC] PHP Warning:  Undefined array key "traffic_devices" in C:\smartlabs\laragon\www\becarios.php on line 399
+[05-Jan-2024 22:21:19 UTC] PHP Warning:  Undefined array key "traffic_devices" in C:\smartlabs\laragon\www\becarios.php on line 399
+[05-Jan-2024 22:21:19 UTC] PHP Warning:  Undefined array key "traffic_devices" in C:\smartlabs\laragon\www\becarios.php on line 399
+[05-Jan-2024 22:21:19 UTC] PHP Warning:  Undefined array key "traffic_devices" in C:\smartlabs\laragon\www\becarios.php on line 399
+[05-Jan-2024 22:21:19 UTC] PHP Warning:  Undefined array key "traffic_devices" in C:\smartlabs\laragon\www\becarios.php on line 399
+[05-Jan-2024 22:21:19 UTC] PHP Warning:  Undefined array key "traffic_devices" in C:\smartlabs\laragon\www\becarios.php on line 399
+[05-Jan-2024 22:21:19 UTC] PHP Warning:  Undefined array key "traffic_devices" in C:\smartlabs\laragon\www\becarios.php on line 399
+[05-Jan-2024 22:21:19 UTC] PHP Warning:  Undefined array key "traffic_devices" in C:\smartlabs\laragon\www\becarios.php on line 399
+[05-Jan-2024 22:21:19 UTC] PHP Warning:  Undefined array key "traffic_devices" in C:\smartlabs\laragon\www\becarios.php on line 399
+[05-Jan-2024 22:21:19 UTC] PHP Warning:  Undefined array key "traffic_devices" in C:\smartlabs\laragon\www\becarios.php on line 399
+[05-Jan-2024 22:21:19 UTC] PHP Warning:  Undefined array key "traffic_devices" in C:\smartlabs\laragon\www\becarios.php on line 399
+[05-Jan-2024 22:21:19 UTC] PHP Warning:  Undefined array key "traffic_devices" in C:\smartlabs\laragon\www\becarios.php on line 399
+[05-Jan-2024 22:21:19 UTC] PHP Warning:  Undefined array key "traffic_devices" in C:\smartlabs\laragon\www\becarios.php on line 399
+[05-Jan-2024 22:21:19 UTC] PHP Warning:  Undefined array key "traffic_devices" in C:\smartlabs\laragon\www\becarios.php on line 399
+[05-Jan-2024 22:21:19 UTC] PHP Warning:  Undefined array key "traffic_devices" in C:\smartlabs\laragon\www\becarios.php on line 399
+[05-Jan-2024 22:21:19 UTC] PHP Warning:  Undefined array key "traffic_devices" in C:\smartlabs\laragon\www\becarios.php on line 399
+[05-Jan-2024 22:21:19 UTC] PHP Warning:  Undefined array key "traffic_devices" in C:\smartlabs\laragon\www\becarios.php on line 399
+[05-Jan-2024 22:21:19 UTC] PHP Warning:  Undefined array key "traffic_devices" in C:\smartlabs\laragon\www\becarios.php on line 399
+[05-Jan-2024 22:21:19 UTC] PHP Warning:  Undefined array key "traffic_devices" in C:\smartlabs\laragon\www\becarios.php on line 399
+[05-Jan-2024 22:21:19 UTC] PHP Warning:  Undefined array key "traffic_devices" in C:\smartlabs\laragon\www\becarios.php on line 399
+[05-Jan-2024 22:21:19 UTC] PHP Warning:  Undefined array key "traffic_devices" in C:\smartlabs\laragon\www\becarios.php on line 399
+[08-Jan-2024 17:44:03 UTC] PHP Warning:  Undefined array key "logged" in C:\smartlabs\laragon\www\horas_uso.php on line 3
+[06-Feb-2024 18:17:29 UTC] PHP Warning:  Undefined variable $email in C:\smartlabs\laragon\www\login_users.php on line 29
+[06-Feb-2024 18:17:29 UTC] PHP Warning:  Undefined variable $password in C:\smartlabs\laragon\www\login_users.php on line 29
+[06-Feb-2024 18:19:27 UTC] PHP Warning:  Undefined array key "users_email" in C:\smartlabs\laragon\www\dashboard_users.php on line 287
+[06-Feb-2024 18:22:59 UTC] PHP Warning:  Undefined array key "users_email" in C:\smartlabs\laragon\www\dashboard_users.php on line 287
+[06-Feb-2024 18:27:19 UTC] PHP Warning:  Undefined array key "users_email" in C:\smartlabs\laragon\www\dashboard_users.php on line 209
+[06-Feb-2024 18:27:49 UTC] PHP Warning:  Undefined array key "users_email" in C:\smartlabs\laragon\www\dashboard_users.php on line 209
+[06-Feb-2024 18:30:55 UTC] PHP Warning:  Undefined array key "users_email" in C:\smartlabs\laragon\www\dashboard_users.php on line 209
+[06-Feb-2024 19:12:58 UTC] PHP Warning:  Undefined array key "users_email" in C:\smartlabs\laragon\www\dashboard_users.php on line 209
+[06-Feb-2024 20:55:21 UTC] PHP Warning:  Undefined array key "users_email" in C:\smartlabs\laragon\www\dashboard_users.php on line 209
+[07-Feb-2024 18:02:00 UTC] PHP Warning:  Undefined array key "users_email" in C:\smartlabs\laragon\www\dashboard_users.php on line 241
+[07-Feb-2024 18:04:49 UTC] PHP Warning:  Undefined array key "users_email" in C:\smartlabs\laragon\www\dashboard_users.php on line 242
+[07-Feb-2024 18:04:56 UTC] PHP Warning:  Undefined array key "users_email" in C:\smartlabs\laragon\www\dashboard_users.php on line 242
+[07-Feb-2024 18:05:46 UTC] PHP Warning:  Undefined array key "users_email" in C:\smartlabs\laragon\www\dashboard_users.php on line 242
+[07-Feb-2024 18:06:26 UTC] PHP Warning:  Undefined array key "users_email" in C:\smartlabs\laragon\www\dashboard_users.php on line 242
+[07-Feb-2024 18:15:04 UTC] PHP Warning:  Undefined array key "users_email" in C:\smartlabs\laragon\www\dashboard_users.php on line 242
+[07-Feb-2024 18:17:32 UTC] PHP Warning:  Undefined array key "users_email" in C:\smartlabs\laragon\www\dashboard_users.php on line 242
+[07-Feb-2024 18:18:34 UTC] PHP Warning:  Undefined array key "users_email" in C:\smartlabs\laragon\www\dashboard_users.php on line 242
+[07-Feb-2024 18:20:43 UTC] PHP Warning:  Undefined array key "users_email" in C:\smartlabs\laragon\www\dashboard_users.php on line 242
+[07-Feb-2024 18:21:19 UTC] PHP Warning:  Undefined array key "users_email" in C:\smartlabs\laragon\www\dashboard_users.php on line 242
+[07-Feb-2024 18:21:21 UTC] PHP Warning:  Undefined variable $conn in C:\smartlabs\laragon\www\dashboard_users.php on line 33
+[07-Feb-2024 18:21:21 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in C:\smartlabs\laragon\www\dashboard_users.php:33
+Stack trace:
+#0 {main}
+  thrown in C:\smartlabs\laragon\www\dashboard_users.php on line 33
+[07-Feb-2024 18:21:21 UTC] PHP Warning:  Undefined variable $conn in C:\smartlabs\laragon\www\dashboard_users.php on line 33
+[07-Feb-2024 18:21:21 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in C:\smartlabs\laragon\www\dashboard_users.php:33
+Stack trace:
+#0 {main}
+  thrown in C:\smartlabs\laragon\www\dashboard_users.php on line 33
+[07-Feb-2024 18:21:21 UTC] PHP Warning:  Undefined variable $conn in C:\smartlabs\laragon\www\dashboard_users.php on line 33
+[07-Feb-2024 18:21:21 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in C:\smartlabs\laragon\www\dashboard_users.php:33
+Stack trace:
+#0 {main}
+  thrown in C:\smartlabs\laragon\www\dashboard_users.php on line 33
+[07-Feb-2024 18:21:22 UTC] PHP Warning:  Undefined variable $conn in C:\smartlabs\laragon\www\dashboard_users.php on line 33
+[07-Feb-2024 18:21:22 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in C:\smartlabs\laragon\www\dashboard_users.php:33
+Stack trace:
+#0 {main}
+  thrown in C:\smartlabs\laragon\www\dashboard_users.php on line 33
+[07-Feb-2024 18:21:23 UTC] PHP Warning:  Undefined variable $conn in C:\smartlabs\laragon\www\dashboard_users.php on line 33
+[07-Feb-2024 18:21:23 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in C:\smartlabs\laragon\www\dashboard_users.php:33
+Stack trace:
+#0 {main}
+  thrown in C:\smartlabs\laragon\www\dashboard_users.php on line 33
+[07-Feb-2024 18:21:24 UTC] PHP Warning:  Undefined variable $conn in C:\smartlabs\laragon\www\dashboard_users.php on line 33
+[07-Feb-2024 18:21:24 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in C:\smartlabs\laragon\www\dashboard_users.php:33
+Stack trace:
+#0 {main}
+  thrown in C:\smartlabs\laragon\www\dashboard_users.php on line 33
+[07-Feb-2024 18:21:27 UTC] PHP Warning:  Undefined variable $conn in C:\smartlabs\laragon\www\dashboard_users.php on line 33
+[07-Feb-2024 18:21:27 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in C:\smartlabs\laragon\www\dashboard_users.php:33
+Stack trace:
+#0 {main}
+  thrown in C:\smartlabs\laragon\www\dashboard_users.php on line 33
+[07-Feb-2024 18:21:28 UTC] PHP Warning:  Undefined variable $conn in C:\smartlabs\laragon\www\dashboard_users.php on line 33
+[07-Feb-2024 18:21:28 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in C:\smartlabs\laragon\www\dashboard_users.php:33
+Stack trace:
+#0 {main}
+  thrown in C:\smartlabs\laragon\www\dashboard_users.php on line 33
+[07-Feb-2024 18:21:28 UTC] PHP Warning:  Undefined variable $conn in C:\smartlabs\laragon\www\dashboard_users.php on line 33
+[07-Feb-2024 18:21:28 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in C:\smartlabs\laragon\www\dashboard_users.php:33
+Stack trace:
+#0 {main}
+  thrown in C:\smartlabs\laragon\www\dashboard_users.php on line 33
+[07-Feb-2024 18:21:28 UTC] PHP Warning:  Undefined variable $conn in C:\smartlabs\laragon\www\dashboard_users.php on line 33
+[07-Feb-2024 18:21:28 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in C:\smartlabs\laragon\www\dashboard_users.php:33
+Stack trace:
+#0 {main}
+  thrown in C:\smartlabs\laragon\www\dashboard_users.php on line 33
+[07-Feb-2024 18:21:29 UTC] PHP Warning:  Undefined variable $conn in C:\smartlabs\laragon\www\dashboard_users.php on line 33
+[07-Feb-2024 18:21:29 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in C:\smartlabs\laragon\www\dashboard_users.php:33
+Stack trace:
+#0 {main}
+  thrown in C:\smartlabs\laragon\www\dashboard_users.php on line 33
+[07-Feb-2024 18:21:29 UTC] PHP Warning:  Undefined variable $conn in C:\smartlabs\laragon\www\dashboard_users.php on line 33
+[07-Feb-2024 18:21:29 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in C:\smartlabs\laragon\www\dashboard_users.php:33
+Stack trace:
+#0 {main}
+  thrown in C:\smartlabs\laragon\www\dashboard_users.php on line 33
+[07-Feb-2024 18:21:30 UTC] PHP Warning:  Undefined variable $conn in C:\smartlabs\laragon\www\dashboard_users.php on line 33
+[07-Feb-2024 18:21:30 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in C:\smartlabs\laragon\www\dashboard_users.php:33
+Stack trace:
+#0 {main}
+  thrown in C:\smartlabs\laragon\www\dashboard_users.php on line 33
+[07-Feb-2024 18:21:31 UTC] PHP Warning:  Undefined variable $conn in C:\smartlabs\laragon\www\dashboard_users.php on line 33
+[07-Feb-2024 18:21:31 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in C:\smartlabs\laragon\www\dashboard_users.php:33
+Stack trace:
+#0 {main}
+  thrown in C:\smartlabs\laragon\www\dashboard_users.php on line 33
+[07-Feb-2024 18:21:32 UTC] PHP Warning:  Undefined variable $conn in C:\smartlabs\laragon\www\dashboard_users.php on line 33
+[07-Feb-2024 18:21:32 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in C:\smartlabs\laragon\www\dashboard_users.php:33
+Stack trace:
+#0 {main}
+  thrown in C:\smartlabs\laragon\www\dashboard_users.php on line 33
+[07-Feb-2024 18:22:15 UTC] PHP Warning:  Undefined array key "users_email" in C:\smartlabs\laragon\www\dashboard_users.php on line 242
+[07-Feb-2024 18:22:17 UTC] PHP Warning:  Undefined variable $conn in C:\smartlabs\laragon\www\dashboard_users.php on line 33
+[07-Feb-2024 18:22:17 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in C:\smartlabs\laragon\www\dashboard_users.php:33
+Stack trace:
+#0 {main}
+  thrown in C:\smartlabs\laragon\www\dashboard_users.php on line 33
+[07-Feb-2024 18:22:23 UTC] PHP Warning:  Undefined variable $conn in C:\smartlabs\laragon\www\dashboard_users.php on line 33
+[07-Feb-2024 18:22:23 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in C:\smartlabs\laragon\www\dashboard_users.php:33
+Stack trace:
+#0 {main}
+  thrown in C:\smartlabs\laragon\www\dashboard_users.php on line 33
+[07-Feb-2024 18:22:24 UTC] PHP Warning:  Undefined variable $conn in C:\smartlabs\laragon\www\dashboard_users.php on line 33
+[07-Feb-2024 18:22:24 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in C:\smartlabs\laragon\www\dashboard_users.php:33
+Stack trace:
+#0 {main}
+  thrown in C:\smartlabs\laragon\www\dashboard_users.php on line 33
+[07-Feb-2024 18:22:50 UTC] PHP Warning:  Undefined variable $conn in C:\smartlabs\laragon\www\dashboard_users.php on line 33
+[07-Feb-2024 18:22:50 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in C:\smartlabs\laragon\www\dashboard_users.php:33
+Stack trace:
+#0 {main}
+  thrown in C:\smartlabs\laragon\www\dashboard_users.php on line 33
+[07-Feb-2024 18:22:51 UTC] PHP Warning:  Undefined variable $conn in C:\smartlabs\laragon\www\dashboard_users.php on line 33
+[07-Feb-2024 18:22:51 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in C:\smartlabs\laragon\www\dashboard_users.php:33
+Stack trace:
+#0 {main}
+  thrown in C:\smartlabs\laragon\www\dashboard_users.php on line 33
+[07-Feb-2024 18:24:06 UTC] PHP Warning:  Undefined array key "users_email" in C:\smartlabs\laragon\www\dashboard_users.php on line 242
+[07-Feb-2024 18:24:09 UTC] PHP Warning:  Undefined variable $conn in C:\smartlabs\laragon\www\dashboard_users.php on line 33
+[07-Feb-2024 18:24:09 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in C:\smartlabs\laragon\www\dashboard_users.php:33
+Stack trace:
+#0 {main}
+  thrown in C:\smartlabs\laragon\www\dashboard_users.php on line 33
+[07-Feb-2024 18:24:10 UTC] PHP Warning:  Undefined variable $conn in C:\smartlabs\laragon\www\dashboard_users.php on line 33
+[07-Feb-2024 18:24:10 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in C:\smartlabs\laragon\www\dashboard_users.php:33
+Stack trace:
+#0 {main}
+  thrown in C:\smartlabs\laragon\www\dashboard_users.php on line 33
+[07-Feb-2024 18:24:11 UTC] PHP Warning:  Undefined variable $conn in C:\smartlabs\laragon\www\dashboard_users.php on line 33
+[07-Feb-2024 18:24:11 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in C:\smartlabs\laragon\www\dashboard_users.php:33
+Stack trace:
+#0 {main}
+  thrown in C:\smartlabs\laragon\www\dashboard_users.php on line 33
+[07-Feb-2024 18:24:11 UTC] PHP Warning:  Undefined variable $conn in C:\smartlabs\laragon\www\dashboard_users.php on line 33
+[07-Feb-2024 18:24:11 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in C:\smartlabs\laragon\www\dashboard_users.php:33
+Stack trace:
+#0 {main}
+  thrown in C:\smartlabs\laragon\www\dashboard_users.php on line 33
+[07-Feb-2024 18:26:07 UTC] PHP Warning:  Undefined variable $conn in C:\smartlabs\laragon\www\dashboard_users.php on line 33
+[07-Feb-2024 18:26:07 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in C:\smartlabs\laragon\www\dashboard_users.php:33
+Stack trace:
+#0 {main}
+  thrown in C:\smartlabs\laragon\www\dashboard_users.php on line 33
+[07-Feb-2024 18:26:08 UTC] PHP Warning:  Undefined variable $conn in C:\smartlabs\laragon\www\dashboard_users.php on line 33
+[07-Feb-2024 18:26:08 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in C:\smartlabs\laragon\www\dashboard_users.php:33
+Stack trace:
+#0 {main}
+  thrown in C:\smartlabs\laragon\www\dashboard_users.php on line 33
+[07-Feb-2024 18:26:09 UTC] PHP Warning:  Undefined variable $conn in C:\smartlabs\laragon\www\dashboard_users.php on line 33
+[07-Feb-2024 18:26:09 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in C:\smartlabs\laragon\www\dashboard_users.php:33
+Stack trace:
+#0 {main}
+  thrown in C:\smartlabs\laragon\www\dashboard_users.php on line 33
+[07-Feb-2024 18:26:09 UTC] PHP Warning:  Undefined variable $conn in C:\smartlabs\laragon\www\dashboard_users.php on line 33
+[07-Feb-2024 18:26:09 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in C:\smartlabs\laragon\www\dashboard_users.php:33
+Stack trace:
+#0 {main}
+  thrown in C:\smartlabs\laragon\www\dashboard_users.php on line 33
+[07-Feb-2024 18:27:59 UTC] PHP Warning:  Undefined variable $conn in C:\smartlabs\laragon\www\dashboard_users.php on line 33
+[07-Feb-2024 18:27:59 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in C:\smartlabs\laragon\www\dashboard_users.php:33
+Stack trace:
+#0 {main}
+  thrown in C:\smartlabs\laragon\www\dashboard_users.php on line 33
+[07-Feb-2024 18:28:01 UTC] PHP Warning:  Undefined variable $conn in C:\smartlabs\laragon\www\dashboard_users.php on line 33
+[07-Feb-2024 18:28:01 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in C:\smartlabs\laragon\www\dashboard_users.php:33
+Stack trace:
+#0 {main}
+  thrown in C:\smartlabs\laragon\www\dashboard_users.php on line 33
+[07-Feb-2024 18:29:17 UTC] PHP Warning:  Undefined variable $conn in C:\smartlabs\laragon\www\dashboard_users.php on line 33
+[07-Feb-2024 18:29:17 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in C:\smartlabs\laragon\www\dashboard_users.php:33
+Stack trace:
+#0 {main}
+  thrown in C:\smartlabs\laragon\www\dashboard_users.php on line 33
+[07-Feb-2024 18:29:33 UTC] PHP Warning:  Undefined variable $conn in C:\smartlabs\laragon\www\dashboard_users.php on line 33
+[07-Feb-2024 18:29:33 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in C:\smartlabs\laragon\www\dashboard_users.php:33
+Stack trace:
+#0 {main}
+  thrown in C:\smartlabs\laragon\www\dashboard_users.php on line 33
+[07-Feb-2024 18:43:35 UTC] PHP Warning:  Undefined array key "logged" in C:\smartlabs\laragon\www\dashboard_users.php on line 6
+[07-Feb-2024 18:44:10 UTC] PHP Warning:  Undefined variable $conn in C:\smartlabs\laragon\www\dashboard_users.php on line 33
+[07-Feb-2024 18:44:10 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in C:\smartlabs\laragon\www\dashboard_users.php:33
+Stack trace:
+#0 {main}
+  thrown in C:\smartlabs\laragon\www\dashboard_users.php on line 33
+[07-Feb-2024 19:11:47 UTC] PHP Warning:  Undefined variable $conn in C:\smartlabs\laragon\www\dashboard_users.php on line 29
+[07-Feb-2024 19:11:47 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in C:\smartlabs\laragon\www\dashboard_users.php:29
+Stack trace:
+#0 {main}
+  thrown in C:\smartlabs\laragon\www\dashboard_users.php on line 29
+[07-Feb-2024 19:12:25 UTC] PHP Warning:  Undefined variable $conn in C:\smartlabs\laragon\www\dashboard_users.php on line 29
+[07-Feb-2024 19:12:25 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in C:\smartlabs\laragon\www\dashboard_users.php:29
+Stack trace:
+#0 {main}
+  thrown in C:\smartlabs\laragon\www\dashboard_users.php on line 29
+[07-Feb-2024 19:14:48 UTC] PHP Warning:  Undefined variable $conn in C:\smartlabs\laragon\www\dashboard_users.php on line 29
+[07-Feb-2024 19:14:48 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in C:\smartlabs\laragon\www\dashboard_users.php:29
+Stack trace:
+#0 {main}
+  thrown in C:\smartlabs\laragon\www\dashboard_users.php on line 29
+[07-Feb-2024 19:16:46 UTC] PHP Warning:  Undefined variable $conn in C:\smartlabs\laragon\www\dashboard_users.php on line 29
+[07-Feb-2024 19:16:46 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in C:\smartlabs\laragon\www\dashboard_users.php:29
+Stack trace:
+#0 {main}
+  thrown in C:\smartlabs\laragon\www\dashboard_users.php on line 29
+[07-Feb-2024 19:17:13 UTC] PHP Warning:  Undefined variable $conn in C:\smartlabs\laragon\www\dashboard_users.php on line 29
+[07-Feb-2024 19:17:13 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in C:\smartlabs\laragon\www\dashboard_users.php:29
+Stack trace:
+#0 {main}
+  thrown in C:\smartlabs\laragon\www\dashboard_users.php on line 29
+[07-Feb-2024 19:17:19 UTC] PHP Warning:  Undefined variable $conn in C:\smartlabs\laragon\www\dashboard_users.php on line 29
+[07-Feb-2024 19:17:19 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in C:\smartlabs\laragon\www\dashboard_users.php:29
+Stack trace:
+#0 {main}
+  thrown in C:\smartlabs\laragon\www\dashboard_users.php on line 29
+[07-Feb-2024 19:19:00 UTC] PHP Warning:  Undefined array key "logged" in C:\smartlabs\laragon\www\dashboard_users.php on line 6
+[07-Feb-2024 19:22:20 UTC] PHP Warning:  Undefined variable $conn in C:\smartlabs\laragon\www\dashboard_users.php on line 29
+[07-Feb-2024 19:22:20 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in C:\smartlabs\laragon\www\dashboard_users.php:29
+Stack trace:
+#0 {main}
+  thrown in C:\smartlabs\laragon\www\dashboard_users.php on line 29
+[07-Feb-2024 19:23:00 UTC] PHP Warning:  Undefined variable $conn in C:\smartlabs\laragon\www\dashboard_users.php on line 29
+[07-Feb-2024 19:23:00 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in C:\smartlabs\laragon\www\dashboard_users.php:29
+Stack trace:
+#0 {main}
+  thrown in C:\smartlabs\laragon\www\dashboard_users.php on line 29
+[07-Feb-2024 19:23:16 UTC] PHP Warning:  Undefined variable $conn in C:\smartlabs\laragon\www\dashboard_users.php on line 29
+[07-Feb-2024 19:23:16 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in C:\smartlabs\laragon\www\dashboard_users.php:29
+Stack trace:
+#0 {main}
+  thrown in C:\smartlabs\laragon\www\dashboard_users.php on line 29
+[07-Feb-2024 19:23:18 UTC] PHP Warning:  Undefined variable $conn in C:\smartlabs\laragon\www\dashboard_users.php on line 29
+[07-Feb-2024 19:23:18 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in C:\smartlabs\laragon\www\dashboard_users.php:29
+Stack trace:
+#0 {main}
+  thrown in C:\smartlabs\laragon\www\dashboard_users.php on line 29
+[07-Feb-2024 19:23:24 UTC] PHP Warning:  Undefined variable $conn in C:\smartlabs\laragon\www\dashboard_users.php on line 29
+[07-Feb-2024 19:23:24 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in C:\smartlabs\laragon\www\dashboard_users.php:29
+Stack trace:
+#0 {main}
+  thrown in C:\smartlabs\laragon\www\dashboard_users.php on line 29
+[07-Feb-2024 19:23:28 UTC] PHP Warning:  Undefined variable $conn in C:\smartlabs\laragon\www\dashboard_users.php on line 29
+[07-Feb-2024 19:23:28 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in C:\smartlabs\laragon\www\dashboard_users.php:29
+Stack trace:
+#0 {main}
+  thrown in C:\smartlabs\laragon\www\dashboard_users.php on line 29
+[07-Feb-2024 19:23:33 UTC] PHP Warning:  Undefined variable $conn in C:\smartlabs\laragon\www\dashboard_users.php on line 29
+[07-Feb-2024 19:23:33 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in C:\smartlabs\laragon\www\dashboard_users.php:29
+Stack trace:
+#0 {main}
+  thrown in C:\smartlabs\laragon\www\dashboard_users.php on line 29
+[07-Feb-2024 19:24:15 UTC] PHP Warning:  Undefined variable $conn in C:\smartlabs\laragon\www\dashboard_users.php on line 29
+[07-Feb-2024 19:24:15 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in C:\smartlabs\laragon\www\dashboard_users.php:29
+Stack trace:
+#0 {main}
+  thrown in C:\smartlabs\laragon\www\dashboard_users.php on line 29
+[07-Feb-2024 19:24:22 UTC] PHP Warning:  Undefined variable $conn in C:\smartlabs\laragon\www\dashboard_users.php on line 29
+[07-Feb-2024 19:24:22 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in C:\smartlabs\laragon\www\dashboard_users.php:29
+Stack trace:
+#0 {main}
+  thrown in C:\smartlabs\laragon\www\dashboard_users.php on line 29
+[07-Feb-2024 19:24:27 UTC] PHP Warning:  Undefined variable $conn in C:\smartlabs\laragon\www\dashboard_users.php on line 29
+[07-Feb-2024 19:24:27 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in C:\smartlabs\laragon\www\dashboard_users.php:29
+Stack trace:
+#0 {main}
+  thrown in C:\smartlabs\laragon\www\dashboard_users.php on line 29
+[07-Feb-2024 19:24:29 UTC] PHP Warning:  Undefined variable $conn in C:\smartlabs\laragon\www\dashboard_users.php on line 29
+[07-Feb-2024 19:24:29 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in C:\smartlabs\laragon\www\dashboard_users.php:29
+Stack trace:
+#0 {main}
+  thrown in C:\smartlabs\laragon\www\dashboard_users.php on line 29
+[07-Feb-2024 19:25:09 UTC] PHP Warning:  Undefined variable $conn in C:\smartlabs\laragon\www\dashboard_users.php on line 29
+[07-Feb-2024 19:25:09 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in C:\smartlabs\laragon\www\dashboard_users.php:29
+Stack trace:
+#0 {main}
+  thrown in C:\smartlabs\laragon\www\dashboard_users.php on line 29
+[07-Feb-2024 19:25:10 UTC] PHP Warning:  Undefined variable $conn in C:\smartlabs\laragon\www\dashboard_users.php on line 29
+[07-Feb-2024 19:25:10 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in C:\smartlabs\laragon\www\dashboard_users.php:29
+Stack trace:
+#0 {main}
+  thrown in C:\smartlabs\laragon\www\dashboard_users.php on line 29
+[07-Feb-2024 19:25:23 UTC] PHP Warning:  Undefined variable $conn in C:\smartlabs\laragon\www\dashboard_users.php on line 29
+[07-Feb-2024 19:25:23 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in C:\smartlabs\laragon\www\dashboard_users.php:29
+Stack trace:
+#0 {main}
+  thrown in C:\smartlabs\laragon\www\dashboard_users.php on line 29
+[07-Feb-2024 19:25:24 UTC] PHP Warning:  Undefined variable $conn in C:\smartlabs\laragon\www\dashboard_users.php on line 29
+[07-Feb-2024 19:25:24 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in C:\smartlabs\laragon\www\dashboard_users.php:29
+Stack trace:
+#0 {main}
+  thrown in C:\smartlabs\laragon\www\dashboard_users.php on line 29
+[07-Feb-2024 19:33:32 UTC] PHP Warning:  Undefined variable $conn in C:\smartlabs\laragon\www\dashboard_users.php on line 29
+[07-Feb-2024 19:33:32 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in C:\smartlabs\laragon\www\dashboard_users.php:29
+Stack trace:
+#0 {main}
+  thrown in C:\smartlabs\laragon\www\dashboard_users.php on line 29
+[07-Feb-2024 19:33:58 UTC] PHP Warning:  Undefined variable $conn in C:\smartlabs\laragon\www\dashboard_users.php on line 29
+[07-Feb-2024 19:33:58 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in C:\smartlabs\laragon\www\dashboard_users.php:29
+Stack trace:
+#0 {main}
+  thrown in C:\smartlabs\laragon\www\dashboard_users.php on line 29
+[07-Feb-2024 19:35:28 UTC] PHP Warning:  Undefined variable $conn in C:\smartlabs\laragon\www\dashboard_users.php on line 29
+[07-Feb-2024 19:35:28 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in C:\smartlabs\laragon\www\dashboard_users.php:29
+Stack trace:
+#0 {main}
+  thrown in C:\smartlabs\laragon\www\dashboard_users.php on line 29
+[07-Feb-2024 19:35:29 UTC] PHP Warning:  Undefined variable $conn in C:\smartlabs\laragon\www\dashboard_users.php on line 29
+[07-Feb-2024 19:35:29 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in C:\smartlabs\laragon\www\dashboard_users.php:29
+Stack trace:
+#0 {main}
+  thrown in C:\smartlabs\laragon\www\dashboard_users.php on line 29
+[07-Feb-2024 19:41:07 UTC] PHP Warning:  Undefined variable $conn in C:\smartlabs\laragon\www\dashboard_users.php on line 29
+[07-Feb-2024 19:41:07 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in C:\smartlabs\laragon\www\dashboard_users.php:29
+Stack trace:
+#0 {main}
+  thrown in C:\smartlabs\laragon\www\dashboard_users.php on line 29
+[07-Feb-2024 19:41:27 UTC] PHP Warning:  Undefined variable $conn in C:\smartlabs\laragon\www\dashboard_users.php on line 29
+[07-Feb-2024 19:41:27 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in C:\smartlabs\laragon\www\dashboard_users.php:29
+Stack trace:
+#0 {main}
+  thrown in C:\smartlabs\laragon\www\dashboard_users.php on line 29
+[07-Feb-2024 19:41:32 UTC] PHP Warning:  Undefined variable $conn in C:\smartlabs\laragon\www\dashboard_users.php on line 29
+[07-Feb-2024 19:41:32 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in C:\smartlabs\laragon\www\dashboard_users.php:29
+Stack trace:
+#0 {main}
+  thrown in C:\smartlabs\laragon\www\dashboard_users.php on line 29
+[07-Feb-2024 19:42:57 UTC] PHP Warning:  Undefined variable $conn in C:\smartlabs\laragon\www\dashboard_users.php on line 29
+[07-Feb-2024 19:42:57 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in C:\smartlabs\laragon\www\dashboard_users.php:29
+Stack trace:
+#0 {main}
+  thrown in C:\smartlabs\laragon\www\dashboard_users.php on line 29
+[07-Feb-2024 19:43:22 UTC] PHP Warning:  Undefined variable $conn in C:\smartlabs\laragon\www\dashboard_users.php on line 29
+[07-Feb-2024 19:43:22 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in C:\smartlabs\laragon\www\dashboard_users.php:29
+Stack trace:
+#0 {main}
+  thrown in C:\smartlabs\laragon\www\dashboard_users.php on line 29
+[07-Feb-2024 19:45:40 UTC] PHP Warning:  Undefined variable $conn in C:\smartlabs\laragon\www\dashboard_users.php on line 29
+[07-Feb-2024 19:45:40 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in C:\smartlabs\laragon\www\dashboard_users.php:29
+Stack trace:
+#0 {main}
+  thrown in C:\smartlabs\laragon\www\dashboard_users.php on line 29
+[07-Feb-2024 19:47:57 UTC] PHP Warning:  Undefined variable $nameValue in C:\smartlabs\laragon\www\dashboard_users.php on line 46
+[07-Feb-2024 21:33:17 UTC] PHP Warning:  Undefined variable $nameValue in C:\smartlabs\laragon\www\dashboard_users.php on line 46
+[07-Feb-2024 21:34:02 UTC] PHP Warning:  Undefined variable $nameValue in C:\smartlabs\laragon\www\dashboard_users.php on line 46
+[07-Feb-2024 21:35:30 UTC] PHP Warning:  Undefined variable $nameValue in C:\smartlabs\laragon\www\dashboard_users.php on line 46
+[07-Feb-2024 21:35:36 UTC] PHP Warning:  Undefined variable $nameValue in C:\smartlabs\laragon\www\dashboard_users.php on line 46
+[08-Feb-2024 15:54:55 UTC] PHP Parse error:  syntax error, unexpected token "const" in C:\smartlabs\laragon\www\dashboard_users.php on line 87
+[08-Feb-2024 15:54:55 UTC] PHP Parse error:  syntax error, unexpected token "const" in C:\smartlabs\laragon\www\dashboard_users.php on line 87
+[08-Feb-2024 15:54:56 UTC] PHP Parse error:  syntax error, unexpected token "const" in C:\smartlabs\laragon\www\dashboard_users.php on line 87
+[08-Feb-2024 15:54:57 UTC] PHP Parse error:  syntax error, unexpected token "const" in C:\smartlabs\laragon\www\dashboard_users.php on line 87
+[08-Feb-2024 15:54:58 UTC] PHP Parse error:  syntax error, unexpected token "const" in C:\smartlabs\laragon\www\dashboard_users.php on line 87
+[08-Feb-2024 15:54:59 UTC] PHP Parse error:  syntax error, unexpected token "const" in C:\smartlabs\laragon\www\dashboard_users.php on line 87
+[08-Feb-2024 15:55:00 UTC] PHP Parse error:  syntax error, unexpected token "const" in C:\smartlabs\laragon\www\dashboard_users.php on line 87
+[08-Feb-2024 15:55:01 UTC] PHP Parse error:  syntax error, unexpected token "const" in C:\smartlabs\laragon\www\dashboard_users.php on line 87
+[08-Feb-2024 15:55:02 UTC] PHP Parse error:  syntax error, unexpected token "const" in C:\smartlabs\laragon\www\dashboard_users.php on line 87
+[08-Feb-2024 15:55:03 UTC] PHP Parse error:  syntax error, unexpected token "const" in C:\smartlabs\laragon\www\dashboard_users.php on line 87
+[08-Feb-2024 15:55:04 UTC] PHP Parse error:  syntax error, unexpected token "const" in C:\smartlabs\laragon\www\dashboard_users.php on line 87
+[08-Feb-2024 15:55:05 UTC] PHP Parse error:  syntax error, unexpected token "const" in C:\smartlabs\laragon\www\dashboard_users.php on line 87
+[08-Feb-2024 15:55:06 UTC] PHP Parse error:  syntax error, unexpected token "const" in C:\smartlabs\laragon\www\dashboard_users.php on line 87
+[08-Feb-2024 15:55:07 UTC] PHP Parse error:  syntax error, unexpected token "const" in C:\smartlabs\laragon\www\dashboard_users.php on line 87
+[08-Feb-2024 15:55:08 UTC] PHP Parse error:  syntax error, unexpected token "const" in C:\smartlabs\laragon\www\dashboard_users.php on line 87
+[08-Feb-2024 15:55:09 UTC] PHP Parse error:  syntax error, unexpected token "const" in C:\smartlabs\laragon\www\dashboard_users.php on line 87
+[08-Feb-2024 15:55:10 UTC] PHP Parse error:  syntax error, unexpected token "const" in C:\smartlabs\laragon\www\dashboard_users.php on line 87
+[08-Feb-2024 15:55:11 UTC] PHP Parse error:  syntax error, unexpected token "const" in C:\smartlabs\laragon\www\dashboard_users.php on line 87
+[08-Feb-2024 15:55:12 UTC] PHP Parse error:  syntax error, unexpected token "const" in C:\smartlabs\laragon\www\dashboard_users.php on line 87
+[08-Feb-2024 15:55:13 UTC] PHP Parse error:  syntax error, unexpected token "const" in C:\smartlabs\laragon\www\dashboard_users.php on line 87
+[08-Feb-2024 15:55:26 UTC] PHP Parse error:  syntax error, unexpected token "const" in C:\smartlabs\laragon\www\dashboard_users.php on line 87
+[08-Feb-2024 15:55:27 UTC] PHP Parse error:  syntax error, unexpected token "const" in C:\smartlabs\laragon\www\dashboard_users.php on line 87
+[08-Feb-2024 15:55:28 UTC] PHP Parse error:  syntax error, unexpected token "const" in C:\smartlabs\laragon\www\dashboard_users.php on line 87
+[08-Feb-2024 15:55:29 UTC] PHP Parse error:  syntax error, unexpected token "const" in C:\smartlabs\laragon\www\dashboard_users.php on line 87
+[08-Feb-2024 15:55:30 UTC] PHP Parse error:  syntax error, unexpected token "const" in C:\smartlabs\laragon\www\dashboard_users.php on line 87
+[08-Feb-2024 15:55:31 UTC] PHP Parse error:  syntax error, unexpected token "const" in C:\smartlabs\laragon\www\dashboard_users.php on line 87
+[08-Feb-2024 15:55:32 UTC] PHP Parse error:  syntax error, unexpected token "const" in C:\smartlabs\laragon\www\dashboard_users.php on line 87
+[08-Feb-2024 15:55:33 UTC] PHP Parse error:  syntax error, unexpected token "const" in C:\smartlabs\laragon\www\dashboard_users.php on line 87
+[08-Feb-2024 15:55:34 UTC] PHP Parse error:  syntax error, unexpected token "const" in C:\smartlabs\laragon\www\dashboard_users.php on line 87
+[08-Feb-2024 15:55:35 UTC] PHP Parse error:  syntax error, unexpected token "const" in C:\smartlabs\laragon\www\dashboard_users.php on line 87
+[08-Feb-2024 15:55:36 UTC] PHP Parse error:  syntax error, unexpected token "const" in C:\smartlabs\laragon\www\dashboard_users.php on line 87
+[08-Feb-2024 15:55:37 UTC] PHP Parse error:  syntax error, unexpected token "const" in C:\smartlabs\laragon\www\dashboard_users.php on line 87
+[08-Feb-2024 15:55:38 UTC] PHP Parse error:  syntax error, unexpected token "const" in C:\smartlabs\laragon\www\dashboard_users.php on line 87
+[08-Feb-2024 15:55:39 UTC] PHP Parse error:  syntax error, unexpected token "const" in C:\smartlabs\laragon\www\dashboard_users.php on line 87
+[08-Feb-2024 15:55:39 UTC] PHP Parse error:  syntax error, unexpected token "const" in C:\smartlabs\laragon\www\dashboard_users.php on line 87
+[08-Feb-2024 15:55:40 UTC] PHP Parse error:  syntax error, unexpected token "const" in C:\smartlabs\laragon\www\dashboard_users.php on line 87
+[08-Feb-2024 15:55:40 UTC] PHP Parse error:  syntax error, unexpected token "const" in C:\smartlabs\laragon\www\dashboard_users.php on line 87
+[08-Feb-2024 15:55:41 UTC] PHP Parse error:  syntax error, unexpected token "const" in C:\smartlabs\laragon\www\dashboard_users.php on line 87
+[08-Feb-2024 15:55:42 UTC] PHP Parse error:  syntax error, unexpected token "const" in C:\smartlabs\laragon\www\dashboard_users.php on line 87
+[08-Feb-2024 15:55:43 UTC] PHP Parse error:  syntax error, unexpected token "const" in C:\smartlabs\laragon\www\dashboard_users.php on line 87
+[08-Feb-2024 15:55:43 UTC] PHP Parse error:  syntax error, unexpected token "const" in C:\smartlabs\laragon\www\dashboard_users.php on line 87
+[08-Feb-2024 15:55:44 UTC] PHP Parse error:  syntax error, unexpected token "const" in C:\smartlabs\laragon\www\dashboard_users.php on line 87
+[08-Feb-2024 15:55:44 UTC] PHP Parse error:  syntax error, unexpected token "const" in C:\smartlabs\laragon\www\dashboard_users.php on line 87
+[08-Feb-2024 15:55:45 UTC] PHP Parse error:  syntax error, unexpected token "const" in C:\smartlabs\laragon\www\dashboard_users.php on line 87
+[08-Feb-2024 15:55:45 UTC] PHP Parse error:  syntax error, unexpected token "const" in C:\smartlabs\laragon\www\dashboard_users.php on line 87
+[08-Feb-2024 15:55:46 UTC] PHP Parse error:  syntax error, unexpected token "const" in C:\smartlabs\laragon\www\dashboard_users.php on line 87
+[08-Feb-2024 15:55:46 UTC] PHP Parse error:  syntax error, unexpected token "const" in C:\smartlabs\laragon\www\dashboard_users.php on line 87
+[08-Feb-2024 15:55:47 UTC] PHP Parse error:  syntax error, unexpected token "const" in C:\smartlabs\laragon\www\dashboard_users.php on line 87
+[08-Feb-2024 15:55:47 UTC] PHP Parse error:  syntax error, unexpected token "const" in C:\smartlabs\laragon\www\dashboard_users.php on line 87
+[08-Feb-2024 15:55:48 UTC] PHP Parse error:  syntax error, unexpected token "const" in C:\smartlabs\laragon\www\dashboard_users.php on line 87
+[08-Feb-2024 15:55:48 UTC] PHP Parse error:  syntax error, unexpected token "const" in C:\smartlabs\laragon\www\dashboard_users.php on line 87
+[08-Feb-2024 15:55:49 UTC] PHP Parse error:  syntax error, unexpected token "const" in C:\smartlabs\laragon\www\dashboard_users.php on line 87
+[08-Feb-2024 15:55:49 UTC] PHP Parse error:  syntax error, unexpected token "const" in C:\smartlabs\laragon\www\dashboard_users.php on line 87
+[08-Feb-2024 15:55:50 UTC] PHP Parse error:  syntax error, unexpected token "const" in C:\smartlabs\laragon\www\dashboard_users.php on line 87
+[08-Feb-2024 15:55:50 UTC] PHP Parse error:  syntax error, unexpected token "const" in C:\smartlabs\laragon\www\dashboard_users.php on line 87
+[08-Feb-2024 15:55:51 UTC] PHP Parse error:  syntax error, unexpected token "const" in C:\smartlabs\laragon\www\dashboard_users.php on line 87
+[08-Feb-2024 18:56:00 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Incorrect datetime value: 'CURRENT_TIMESTAMP' for column `emqx`.`traffic`.`traffic_date` at row 1 in C:\smartlabs\laragon\www\dashboard_users.php:82
+Stack trace:
+#0 C:\smartlabs\laragon\www\dashboard_users.php(82): mysqli->query('INSERT INTO `tr...')
+#1 {main}
+  thrown in C:\smartlabs\laragon\www\dashboard_users.php on line 82
+[08-Feb-2024 18:56:11 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Incorrect datetime value: 'CURRENT_TIMESTAMP' for column `emqx`.`traffic`.`traffic_date` at row 1 in C:\smartlabs\laragon\www\dashboard_users.php:82
+Stack trace:
+#0 C:\smartlabs\laragon\www\dashboard_users.php(82): mysqli->query('INSERT INTO `tr...')
+#1 {main}
+  thrown in C:\smartlabs\laragon\www\dashboard_users.php on line 82
+[08-Feb-2024 18:56:14 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Incorrect datetime value: 'CURRENT_TIMESTAMP' for column `emqx`.`traffic`.`traffic_date` at row 1 in C:\smartlabs\laragon\www\dashboard_users.php:82
+Stack trace:
+#0 C:\smartlabs\laragon\www\dashboard_users.php(82): mysqli->query('INSERT INTO `tr...')
+#1 {main}
+  thrown in C:\smartlabs\laragon\www\dashboard_users.php on line 82
+[08-Feb-2024 18:56:20 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Incorrect datetime value: 'CURRENT_TIMESTAMP' for column `emqx`.`traffic`.`traffic_date` at row 1 in C:\smartlabs\laragon\www\dashboard_users.php:82
+Stack trace:
+#0 C:\smartlabs\laragon\www\dashboard_users.php(82): mysqli->query('INSERT INTO `tr...')
+#1 {main}
+  thrown in C:\smartlabs\laragon\www\dashboard_users.php on line 82
+[08-Feb-2024 18:56:40 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Incorrect datetime value: 'CURRENT_TIMESTAMP' for column `emqx`.`traffic`.`traffic_date` at row 1 in C:\smartlabs\laragon\www\dashboard_users.php:82
+Stack trace:
+#0 C:\smartlabs\laragon\www\dashboard_users.php(82): mysqli->query('INSERT INTO `tr...')
+#1 {main}
+  thrown in C:\smartlabs\laragon\www\dashboard_users.php on line 82
+[08-Feb-2024 18:56:41 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Incorrect datetime value: 'CURRENT_TIMESTAMP' for column `emqx`.`traffic`.`traffic_date` at row 1 in C:\smartlabs\laragon\www\dashboard_users.php:82
+Stack trace:
+#0 C:\smartlabs\laragon\www\dashboard_users.php(82): mysqli->query('INSERT INTO `tr...')
+#1 {main}
+  thrown in C:\smartlabs\laragon\www\dashboard_users.php on line 82
+[08-Feb-2024 18:56:42 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Incorrect datetime value: 'CURRENT_TIMESTAMP' for column `emqx`.`traffic`.`traffic_date` at row 1 in C:\smartlabs\laragon\www\dashboard_users.php:82
+Stack trace:
+#0 C:\smartlabs\laragon\www\dashboard_users.php(82): mysqli->query('INSERT INTO `tr...')
+#1 {main}
+  thrown in C:\smartlabs\laragon\www\dashboard_users.php on line 82
+[08-Feb-2024 18:56:45 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Incorrect datetime value: 'CURRENT_TIMESTAMP' for column `emqx`.`traffic`.`traffic_date` at row 1 in C:\smartlabs\laragon\www\dashboard_users.php:82
+Stack trace:
+#0 C:\smartlabs\laragon\www\dashboard_users.php(82): mysqli->query('INSERT INTO `tr...')
+#1 {main}
+  thrown in C:\smartlabs\laragon\www\dashboard_users.php on line 82
+[08-Feb-2024 18:56:49 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Incorrect datetime value: 'CURRENT_TIMESTAMP' for column `emqx`.`traffic`.`traffic_date` at row 1 in C:\smartlabs\laragon\www\dashboard_users.php:82
+Stack trace:
+#0 C:\smartlabs\laragon\www\dashboard_users.php(82): mysqli->query('INSERT INTO `tr...')
+#1 {main}
+  thrown in C:\smartlabs\laragon\www\dashboard_users.php on line 82
+[08-Feb-2024 18:59:20 UTC] PHP Parse error:  syntax error, unexpected variable "$result" in C:\smartlabs\laragon\www\dashboard_users.php on line 83
+[08-Feb-2024 18:59:21 UTC] PHP Parse error:  syntax error, unexpected variable "$result" in C:\smartlabs\laragon\www\dashboard_users.php on line 83
+[08-Feb-2024 18:59:22 UTC] PHP Parse error:  syntax error, unexpected variable "$result" in C:\smartlabs\laragon\www\dashboard_users.php on line 83
+[08-Feb-2024 18:59:23 UTC] PHP Parse error:  syntax error, unexpected variable "$result" in C:\smartlabs\laragon\www\dashboard_users.php on line 83
+[08-Feb-2024 18:59:24 UTC] PHP Parse error:  syntax error, unexpected variable "$result" in C:\smartlabs\laragon\www\dashboard_users.php on line 83
+[08-Feb-2024 18:59:25 UTC] PHP Parse error:  syntax error, unexpected variable "$result" in C:\smartlabs\laragon\www\dashboard_users.php on line 83
+[08-Feb-2024 18:59:26 UTC] PHP Parse error:  syntax error, unexpected variable "$result" in C:\smartlabs\laragon\www\dashboard_users.php on line 83
+[08-Feb-2024 18:59:27 UTC] PHP Parse error:  syntax error, unexpected variable "$result" in C:\smartlabs\laragon\www\dashboard_users.php on line 83
+[08-Feb-2024 18:59:28 UTC] PHP Parse error:  syntax error, unexpected variable "$result" in C:\smartlabs\laragon\www\dashboard_users.php on line 83
+[08-Feb-2024 18:59:29 UTC] PHP Parse error:  syntax error, unexpected variable "$result" in C:\smartlabs\laragon\www\dashboard_users.php on line 83
+[08-Feb-2024 18:59:30 UTC] PHP Parse error:  syntax error, unexpected variable "$result" in C:\smartlabs\laragon\www\dashboard_users.php on line 83
+[08-Feb-2024 18:59:39 UTC] PHP Parse error:  syntax error, unexpected variable "$result" in C:\smartlabs\laragon\www\dashboard_users.php on line 83
+[08-Feb-2024 18:59:39 UTC] PHP Parse error:  syntax error, unexpected variable "$result" in C:\smartlabs\laragon\www\dashboard_users.php on line 83
+[08-Feb-2024 18:59:40 UTC] PHP Parse error:  syntax error, unexpected variable "$result" in C:\smartlabs\laragon\www\dashboard_users.php on line 83
+[08-Feb-2024 18:59:41 UTC] PHP Parse error:  syntax error, unexpected variable "$result" in C:\smartlabs\laragon\www\dashboard_users.php on line 83
+[08-Feb-2024 18:59:42 UTC] PHP Parse error:  syntax error, unexpected variable "$result" in C:\smartlabs\laragon\www\dashboard_users.php on line 83
+[08-Feb-2024 18:59:43 UTC] PHP Parse error:  syntax error, unexpected variable "$result" in C:\smartlabs\laragon\www\dashboard_users.php on line 83
+[08-Feb-2024 18:59:44 UTC] PHP Parse error:  syntax error, unexpected variable "$result" in C:\smartlabs\laragon\www\dashboard_users.php on line 83
+[08-Feb-2024 18:59:45 UTC] PHP Parse error:  syntax error, unexpected variable "$result" in C:\smartlabs\laragon\www\dashboard_users.php on line 83
+[08-Feb-2024 18:59:46 UTC] PHP Parse error:  syntax error, unexpected variable "$result" in C:\smartlabs\laragon\www\dashboard_users.php on line 83
+[08-Feb-2024 18:59:47 UTC] PHP Parse error:  syntax error, unexpected variable "$result" in C:\smartlabs\laragon\www\dashboard_users.php on line 83
+[08-Feb-2024 18:59:48 UTC] PHP Parse error:  syntax error, unexpected variable "$result" in C:\smartlabs\laragon\www\dashboard_users.php on line 83
+[08-Feb-2024 18:59:49 UTC] PHP Parse error:  syntax error, unexpected variable "$result" in C:\smartlabs\laragon\www\dashboard_users.php on line 83
+[08-Feb-2024 18:59:50 UTC] PHP Parse error:  syntax error, unexpected variable "$result" in C:\smartlabs\laragon\www\dashboard_users.php on line 83
+[08-Feb-2024 18:59:51 UTC] PHP Parse error:  syntax error, unexpected variable "$result" in C:\smartlabs\laragon\www\dashboard_users.php on line 83
+[08-Feb-2024 18:59:52 UTC] PHP Parse error:  syntax error, unexpected variable "$result" in C:\smartlabs\laragon\www\dashboard_users.php on line 83
+[08-Feb-2024 18:59:53 UTC] PHP Parse error:  syntax error, unexpected variable "$result" in C:\smartlabs\laragon\www\dashboard_users.php on line 83
+[08-Feb-2024 18:59:54 UTC] PHP Parse error:  syntax error, unexpected variable "$result" in C:\smartlabs\laragon\www\dashboard_users.php on line 83
+[08-Feb-2024 18:59:55 UTC] PHP Parse error:  syntax error, unexpected variable "$result" in C:\smartlabs\laragon\www\dashboard_users.php on line 83
+[08-Feb-2024 18:59:56 UTC] PHP Parse error:  syntax error, unexpected variable "$result" in C:\smartlabs\laragon\www\dashboard_users.php on line 83
+[08-Feb-2024 18:59:57 UTC] PHP Parse error:  syntax error, unexpected variable "$result" in C:\smartlabs\laragon\www\dashboard_users.php on line 83
+[08-Feb-2024 18:59:58 UTC] PHP Parse error:  syntax error, unexpected variable "$result" in C:\smartlabs\laragon\www\dashboard_users.php on line 83
+[08-Feb-2024 18:59:59 UTC] PHP Parse error:  syntax error, unexpected variable "$result" in C:\smartlabs\laragon\www\dashboard_users.php on line 83
+[08-Feb-2024 19:00:00 UTC] PHP Parse error:  syntax error, unexpected variable "$result" in C:\smartlabs\laragon\www\dashboard_users.php on line 83
+[08-Feb-2024 19:00:01 UTC] PHP Parse error:  syntax error, unexpected variable "$result" in C:\smartlabs\laragon\www\dashboard_users.php on line 83
+[08-Feb-2024 19:00:02 UTC] PHP Parse error:  syntax error, unexpected variable "$result" in C:\smartlabs\laragon\www\dashboard_users.php on line 83
+[08-Feb-2024 19:00:03 UTC] PHP Parse error:  syntax error, unexpected variable "$result" in C:\smartlabs\laragon\www\dashboard_users.php on line 83
+[08-Feb-2024 19:00:04 UTC] PHP Parse error:  syntax error, unexpected variable "$result" in C:\smartlabs\laragon\www\dashboard_users.php on line 83
+[08-Feb-2024 19:00:05 UTC] PHP Parse error:  syntax error, unexpected variable "$result" in C:\smartlabs\laragon\www\dashboard_users.php on line 83
+[08-Feb-2024 19:00:06 UTC] PHP Parse error:  syntax error, unexpected variable "$result" in C:\smartlabs\laragon\www\dashboard_users.php on line 83
+[08-Feb-2024 19:00:07 UTC] PHP Parse error:  syntax error, unexpected variable "$result" in C:\smartlabs\laragon\www\dashboard_users.php on line 83
+[08-Feb-2024 19:00:08 UTC] PHP Parse error:  syntax error, unexpected variable "$result" in C:\smartlabs\laragon\www\dashboard_users.php on line 83
+[08-Feb-2024 19:00:09 UTC] PHP Parse error:  syntax error, unexpected variable "$result" in C:\smartlabs\laragon\www\dashboard_users.php on line 83
+[08-Feb-2024 19:00:10 UTC] PHP Parse error:  syntax error, unexpected variable "$result" in C:\smartlabs\laragon\www\dashboard_users.php on line 83
+[08-Feb-2024 19:00:11 UTC] PHP Parse error:  syntax error, unexpected variable "$result" in C:\smartlabs\laragon\www\dashboard_users.php on line 83
+[08-Feb-2024 19:00:12 UTC] PHP Parse error:  syntax error, unexpected variable "$result" in C:\smartlabs\laragon\www\dashboard_users.php on line 83
+[08-Feb-2024 19:00:13 UTC] PHP Parse error:  syntax error, unexpected variable "$result" in C:\smartlabs\laragon\www\dashboard_users.php on line 83
+[08-Feb-2024 19:00:14 UTC] PHP Parse error:  syntax error, unexpected variable "$result" in C:\smartlabs\laragon\www\dashboard_users.php on line 83
+[08-Feb-2024 19:00:15 UTC] PHP Parse error:  syntax error, unexpected variable "$result" in C:\smartlabs\laragon\www\dashboard_users.php on line 83
+[08-Feb-2024 19:00:16 UTC] PHP Parse error:  syntax error, unexpected variable "$result" in C:\smartlabs\laragon\www\dashboard_users.php on line 83
+[08-Feb-2024 19:00:17 UTC] PHP Parse error:  syntax error, unexpected variable "$result" in C:\smartlabs\laragon\www\dashboard_users.php on line 83
+[08-Feb-2024 19:00:18 UTC] PHP Parse error:  syntax error, unexpected variable "$result" in C:\smartlabs\laragon\www\dashboard_users.php on line 83
+[08-Feb-2024 19:00:19 UTC] PHP Parse error:  syntax error, unexpected variable "$result" in C:\smartlabs\laragon\www\dashboard_users.php on line 81
+[08-Feb-2024 19:00:20 UTC] PHP Parse error:  syntax error, unexpected variable "$result" in C:\smartlabs\laragon\www\dashboard_users.php on line 81
+[08-Feb-2024 19:00:21 UTC] PHP Parse error:  syntax error, unexpected variable "$result" in C:\smartlabs\laragon\www\dashboard_users.php on line 81
+[08-Feb-2024 19:00:22 UTC] PHP Parse error:  syntax error, unexpected variable "$result" in C:\smartlabs\laragon\www\dashboard_users.php on line 81
+[08-Feb-2024 19:00:23 UTC] PHP Parse error:  syntax error, unexpected variable "$result" in C:\smartlabs\laragon\www\dashboard_users.php on line 81
+[08-Feb-2024 19:00:24 UTC] PHP Parse error:  syntax error, unexpected variable "$result" in C:\smartlabs\laragon\www\dashboard_users.php on line 81
+[08-Feb-2024 19:00:25 UTC] PHP Parse error:  syntax error, unexpected variable "$result" in C:\smartlabs\laragon\www\dashboard_users.php on line 81
+[08-Feb-2024 19:00:26 UTC] PHP Parse error:  syntax error, unexpected variable "$result" in C:\smartlabs\laragon\www\dashboard_users.php on line 81
+[08-Feb-2024 19:00:27 UTC] PHP Parse error:  syntax error, unexpected variable "$result" in C:\smartlabs\laragon\www\dashboard_users.php on line 81
+[08-Feb-2024 19:00:28 UTC] PHP Parse error:  syntax error, unexpected variable "$result" in C:\smartlabs\laragon\www\dashboard_users.php on line 81
+[08-Feb-2024 19:00:29 UTC] PHP Parse error:  syntax error, unexpected variable "$result" in C:\smartlabs\laragon\www\dashboard_users.php on line 81
+[08-Feb-2024 19:00:30 UTC] PHP Parse error:  syntax error, unexpected variable "$result" in C:\smartlabs\laragon\www\dashboard_users.php on line 81
+[08-Feb-2024 19:00:31 UTC] PHP Parse error:  syntax error, unexpected variable "$result" in C:\smartlabs\laragon\www\dashboard_users.php on line 81
+[08-Feb-2024 19:00:32 UTC] PHP Parse error:  syntax error, unexpected variable "$result" in C:\smartlabs\laragon\www\dashboard_users.php on line 81
+[08-Feb-2024 19:00:32 UTC] PHP Parse error:  syntax error, unexpected variable "$result" in C:\smartlabs\laragon\www\dashboard_users.php on line 81
+[08-Feb-2024 19:00:33 UTC] PHP Parse error:  syntax error, unexpected variable "$result" in C:\smartlabs\laragon\www\dashboard_users.php on line 81
+[08-Feb-2024 19:00:33 UTC] PHP Parse error:  syntax error, unexpected variable "$result" in C:\smartlabs\laragon\www\dashboard_users.php on line 81
+[08-Feb-2024 19:01:25 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Incorrect datetime value: 'CURRENT_TIMESTAMP' for column `emqx`.`traffic`.`traffic_date` at row 1 in C:\smartlabs\laragon\www\dashboard_users.php:82
+Stack trace:
+#0 C:\smartlabs\laragon\www\dashboard_users.php(82): mysqli->query('INSERT INTO `tr...')
+#1 {main}
+  thrown in C:\smartlabs\laragon\www\dashboard_users.php on line 82
+[08-Feb-2024 19:03:53 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Incorrect datetime value: 'CURRENT_TIMESTAMP' for column `emqx`.`traffic`.`traffic_date` at row 1 in C:\smartlabs\laragon\www\dashboard_users.php:82
+Stack trace:
+#0 C:\smartlabs\laragon\www\dashboard_users.php(82): mysqli->query('INSERT INTO `tr...')
+#1 {main}
+  thrown in C:\smartlabs\laragon\www\dashboard_users.php on line 82
+[08-Feb-2024 19:03:55 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Incorrect datetime value: 'CURRENT_TIMESTAMP' for column `emqx`.`traffic`.`traffic_date` at row 1 in C:\smartlabs\laragon\www\dashboard_users.php:82
+Stack trace:
+#0 C:\smartlabs\laragon\www\dashboard_users.php(82): mysqli->query('INSERT INTO `tr...')
+#1 {main}
+  thrown in C:\smartlabs\laragon\www\dashboard_users.php on line 82
+[08-Feb-2024 19:03:57 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Incorrect datetime value: 'CURRENT_TIMESTAMP' for column `emqx`.`traffic`.`traffic_date` at row 1 in C:\smartlabs\laragon\www\dashboard_users.php:82
+Stack trace:
+#0 C:\smartlabs\laragon\www\dashboard_users.php(82): mysqli->query('INSERT INTO `tr...')
+#1 {main}
+  thrown in C:\smartlabs\laragon\www\dashboard_users.php on line 82
+[08-Feb-2024 19:04:53 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Incorrect datetime value: 'CURRENT_TIMESTAMP' for column `emqx`.`traffic`.`traffic_date` at row 1 in C:\smartlabs\laragon\www\dashboard_users.php:82
+Stack trace:
+#0 C:\smartlabs\laragon\www\dashboard_users.php(82): mysqli->query('INSERT INTO `tr...')
+#1 {main}
+  thrown in C:\smartlabs\laragon\www\dashboard_users.php on line 82
+[08-Feb-2024 19:04:56 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Incorrect datetime value: 'CURRENT_TIMESTAMP' for column `emqx`.`traffic`.`traffic_date` at row 1 in C:\smartlabs\laragon\www\dashboard_users.php:82
+Stack trace:
+#0 C:\smartlabs\laragon\www\dashboard_users.php(82): mysqli->query('INSERT INTO `tr...')
+#1 {main}
+  thrown in C:\smartlabs\laragon\www\dashboard_users.php on line 82
+[08-Feb-2024 19:05:23 UTC] PHP Parse error:  Unclosed '{' on line 76 in C:\smartlabs\laragon\www\dashboard_users.php on line 506
+[08-Feb-2024 19:05:24 UTC] PHP Parse error:  Unclosed '{' on line 76 in C:\smartlabs\laragon\www\dashboard_users.php on line 506
+[08-Feb-2024 19:05:25 UTC] PHP Parse error:  Unclosed '{' on line 76 in C:\smartlabs\laragon\www\dashboard_users.php on line 506
+[08-Feb-2024 19:05:26 UTC] PHP Parse error:  Unclosed '{' on line 76 in C:\smartlabs\laragon\www\dashboard_users.php on line 506
+[08-Feb-2024 19:05:26 UTC] PHP Parse error:  Unclosed '{' on line 76 in C:\smartlabs\laragon\www\dashboard_users.php on line 506
+[08-Feb-2024 19:05:27 UTC] PHP Parse error:  Unclosed '{' on line 76 in C:\smartlabs\laragon\www\dashboard_users.php on line 506
+[08-Feb-2024 19:05:27 UTC] PHP Parse error:  Unclosed '{' on line 76 in C:\smartlabs\laragon\www\dashboard_users.php on line 506
+[08-Feb-2024 19:05:44 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Incorrect datetime value: 'CURRENT_TIMESTAMP' for column `emqx`.`traffic`.`traffic_date` at row 1 in C:\smartlabs\laragon\www\dashboard_users.php:81
+Stack trace:
+#0 C:\smartlabs\laragon\www\dashboard_users.php(81): mysqli->query('INSERT INTO `tr...')
+#1 {main}
+  thrown in C:\smartlabs\laragon\www\dashboard_users.php on line 81
+[08-Feb-2024 19:06:56 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Incorrect datetime value: 'CURRENT_TIMESTAMP' for column `emqx`.`traffic`.`traffic_date` at row 1 in C:\smartlabs\laragon\www\dashboard_users.php:82
+Stack trace:
+#0 C:\smartlabs\laragon\www\dashboard_users.php(82): mysqli->query('INSERT INTO `tr...')
+#1 {main}
+  thrown in C:\smartlabs\laragon\www\dashboard_users.php on line 82
+[08-Feb-2024 19:19:29 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Incorrect integer value: 'undefined' for column `emqx`.`traffic`.`traffic_state` at row 1 in C:\smartlabs\laragon\www\dashboard_users.php:82
+Stack trace:
+#0 C:\smartlabs\laragon\www\dashboard_users.php(82): mysqli->query('INSERT INTO `tr...')
+#1 {main}
+  thrown in C:\smartlabs\laragon\www\dashboard_users.php on line 82
+[08-Feb-2024 19:19:30 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Incorrect integer value: 'undefined' for column `emqx`.`traffic`.`traffic_state` at row 1 in C:\smartlabs\laragon\www\dashboard_users.php:82
+Stack trace:
+#0 C:\smartlabs\laragon\www\dashboard_users.php(82): mysqli->query('INSERT INTO `tr...')
+#1 {main}
+  thrown in C:\smartlabs\laragon\www\dashboard_users.php on line 82
+[08-Feb-2024 19:19:31 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Incorrect integer value: 'undefined' for column `emqx`.`traffic`.`traffic_state` at row 1 in C:\smartlabs\laragon\www\dashboard_users.php:82
+Stack trace:
+#0 C:\smartlabs\laragon\www\dashboard_users.php(82): mysqli->query('INSERT INTO `tr...')
+#1 {main}
+  thrown in C:\smartlabs\laragon\www\dashboard_users.php on line 82
+[08-Feb-2024 19:19:31 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Incorrect integer value: 'undefined' for column `emqx`.`traffic`.`traffic_state` at row 1 in C:\smartlabs\laragon\www\dashboard_users.php:82
+Stack trace:
+#0 C:\smartlabs\laragon\www\dashboard_users.php(82): mysqli->query('INSERT INTO `tr...')
+#1 {main}
+  thrown in C:\smartlabs\laragon\www\dashboard_users.php on line 82
+[08-Feb-2024 19:19:31 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Incorrect integer value: 'undefined' for column `emqx`.`traffic`.`traffic_state` at row 1 in C:\smartlabs\laragon\www\dashboard_users.php:82
+Stack trace:
+#0 C:\smartlabs\laragon\www\dashboard_users.php(82): mysqli->query('INSERT INTO `tr...')
+#1 {main}
+  thrown in C:\smartlabs\laragon\www\dashboard_users.php on line 82
+[08-Feb-2024 19:19:32 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Incorrect integer value: 'undefined' for column `emqx`.`traffic`.`traffic_state` at row 1 in C:\smartlabs\laragon\www\dashboard_users.php:82
+Stack trace:
+#0 C:\smartlabs\laragon\www\dashboard_users.php(82): mysqli->query('INSERT INTO `tr...')
+#1 {main}
+  thrown in C:\smartlabs\laragon\www\dashboard_users.php on line 82
+[08-Feb-2024 19:19:32 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Incorrect integer value: 'undefined' for column `emqx`.`traffic`.`traffic_state` at row 1 in C:\smartlabs\laragon\www\dashboard_users.php:82
+Stack trace:
+#0 C:\smartlabs\laragon\www\dashboard_users.php(82): mysqli->query('INSERT INTO `tr...')
+#1 {main}
+  thrown in C:\smartlabs\laragon\www\dashboard_users.php on line 82
+[08-Feb-2024 19:19:33 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Incorrect integer value: 'undefined' for column `emqx`.`traffic`.`traffic_state` at row 1 in C:\smartlabs\laragon\www\dashboard_users.php:82
+Stack trace:
+#0 C:\smartlabs\laragon\www\dashboard_users.php(82): mysqli->query('INSERT INTO `tr...')
+#1 {main}
+  thrown in C:\smartlabs\laragon\www\dashboard_users.php on line 82
+[08-Feb-2024 19:19:35 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Incorrect integer value: 'undefined' for column `emqx`.`traffic`.`traffic_state` at row 1 in C:\smartlabs\laragon\www\dashboard_users.php:82
+Stack trace:
+#0 C:\smartlabs\laragon\www\dashboard_users.php(82): mysqli->query('INSERT INTO `tr...')
+#1 {main}
+  thrown in C:\smartlabs\laragon\www\dashboard_users.php on line 82
+[08-Feb-2024 19:19:43 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Incorrect integer value: 'undefined' for column `emqx`.`traffic`.`traffic_state` at row 1 in C:\smartlabs\laragon\www\dashboard_users.php:82
+Stack trace:
+#0 C:\smartlabs\laragon\www\dashboard_users.php(82): mysqli->query('INSERT INTO `tr...')
+#1 {main}
+  thrown in C:\smartlabs\laragon\www\dashboard_users.php on line 82
+[08-Feb-2024 19:19:45 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Incorrect integer value: 'undefined' for column `emqx`.`traffic`.`traffic_state` at row 1 in C:\smartlabs\laragon\www\dashboard_users.php:82
+Stack trace:
+#0 C:\smartlabs\laragon\www\dashboard_users.php(82): mysqli->query('INSERT INTO `tr...')
+#1 {main}
+  thrown in C:\smartlabs\laragon\www\dashboard_users.php on line 82
+[08-Feb-2024 19:19:46 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Incorrect integer value: 'undefined' for column `emqx`.`traffic`.`traffic_state` at row 1 in C:\smartlabs\laragon\www\dashboard_users.php:82
+Stack trace:
+#0 C:\smartlabs\laragon\www\dashboard_users.php(82): mysqli->query('INSERT INTO `tr...')
+#1 {main}
+  thrown in C:\smartlabs\laragon\www\dashboard_users.php on line 82
+[08-Feb-2024 19:19:46 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Incorrect integer value: 'undefined' for column `emqx`.`traffic`.`traffic_state` at row 1 in C:\smartlabs\laragon\www\dashboard_users.php:82
+Stack trace:
+#0 C:\smartlabs\laragon\www\dashboard_users.php(82): mysqli->query('INSERT INTO `tr...')
+#1 {main}
+  thrown in C:\smartlabs\laragon\www\dashboard_users.php on line 82
+[08-Feb-2024 19:19:46 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Incorrect integer value: 'undefined' for column `emqx`.`traffic`.`traffic_state` at row 1 in C:\smartlabs\laragon\www\dashboard_users.php:82
+Stack trace:
+#0 C:\smartlabs\laragon\www\dashboard_users.php(82): mysqli->query('INSERT INTO `tr...')
+#1 {main}
+  thrown in C:\smartlabs\laragon\www\dashboard_users.php on line 82
+[08-Feb-2024 19:19:46 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Incorrect integer value: 'undefined' for column `emqx`.`traffic`.`traffic_state` at row 1 in C:\smartlabs\laragon\www\dashboard_users.php:82
+Stack trace:
+#0 C:\smartlabs\laragon\www\dashboard_users.php(82): mysqli->query('INSERT INTO `tr...')
+#1 {main}
+  thrown in C:\smartlabs\laragon\www\dashboard_users.php on line 82
+[08-Feb-2024 19:19:46 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Incorrect integer value: 'undefined' for column `emqx`.`traffic`.`traffic_state` at row 1 in C:\smartlabs\laragon\www\dashboard_users.php:82
+Stack trace:
+#0 C:\smartlabs\laragon\www\dashboard_users.php(82): mysqli->query('INSERT INTO `tr...')
+#1 {main}
+  thrown in C:\smartlabs\laragon\www\dashboard_users.php on line 82
+[08-Feb-2024 19:19:47 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Incorrect integer value: 'undefined' for column `emqx`.`traffic`.`traffic_state` at row 1 in C:\smartlabs\laragon\www\dashboard_users.php:82
+Stack trace:
+#0 C:\smartlabs\laragon\www\dashboard_users.php(82): mysqli->query('INSERT INTO `tr...')
+#1 {main}
+  thrown in C:\smartlabs\laragon\www\dashboard_users.php on line 82
+[08-Feb-2024 19:19:47 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Incorrect integer value: 'undefined' for column `emqx`.`traffic`.`traffic_state` at row 1 in C:\smartlabs\laragon\www\dashboard_users.php:82
+Stack trace:
+#0 C:\smartlabs\laragon\www\dashboard_users.php(82): mysqli->query('INSERT INTO `tr...')
+#1 {main}
+  thrown in C:\smartlabs\laragon\www\dashboard_users.php on line 82
+[08-Feb-2024 19:19:48 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Incorrect integer value: 'undefined' for column `emqx`.`traffic`.`traffic_state` at row 1 in C:\smartlabs\laragon\www\dashboard_users.php:82
+Stack trace:
+#0 C:\smartlabs\laragon\www\dashboard_users.php(82): mysqli->query('INSERT INTO `tr...')
+#1 {main}
+  thrown in C:\smartlabs\laragon\www\dashboard_users.php on line 82
+[08-Feb-2024 19:19:49 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Incorrect integer value: 'undefined' for column `emqx`.`traffic`.`traffic_state` at row 1 in C:\smartlabs\laragon\www\dashboard_users.php:82
+Stack trace:
+#0 C:\smartlabs\laragon\www\dashboard_users.php(82): mysqli->query('INSERT INTO `tr...')
+#1 {main}
+  thrown in C:\smartlabs\laragon\www\dashboard_users.php on line 82
+[08-Feb-2024 19:19:50 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Incorrect integer value: 'undefined' for column `emqx`.`traffic`.`traffic_state` at row 1 in C:\smartlabs\laragon\www\dashboard_users.php:82
+Stack trace:
+#0 C:\smartlabs\laragon\www\dashboard_users.php(82): mysqli->query('INSERT INTO `tr...')
+#1 {main}
+  thrown in C:\smartlabs\laragon\www\dashboard_users.php on line 82
+[08-Feb-2024 19:19:50 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Incorrect integer value: 'undefined' for column `emqx`.`traffic`.`traffic_state` at row 1 in C:\smartlabs\laragon\www\dashboard_users.php:82
+Stack trace:
+#0 C:\smartlabs\laragon\www\dashboard_users.php(82): mysqli->query('INSERT INTO `tr...')
+#1 {main}
+  thrown in C:\smartlabs\laragon\www\dashboard_users.php on line 82
+[08-Feb-2024 19:19:51 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Incorrect integer value: 'undefined' for column `emqx`.`traffic`.`traffic_state` at row 1 in C:\smartlabs\laragon\www\dashboard_users.php:82
+Stack trace:
+#0 C:\smartlabs\laragon\www\dashboard_users.php(82): mysqli->query('INSERT INTO `tr...')
+#1 {main}
+  thrown in C:\smartlabs\laragon\www\dashboard_users.php on line 82
+[08-Feb-2024 19:19:51 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Incorrect integer value: 'undefined' for column `emqx`.`traffic`.`traffic_state` at row 1 in C:\smartlabs\laragon\www\dashboard_users.php:82
+Stack trace:
+#0 C:\smartlabs\laragon\www\dashboard_users.php(82): mysqli->query('INSERT INTO `tr...')
+#1 {main}
+  thrown in C:\smartlabs\laragon\www\dashboard_users.php on line 82
+[08-Feb-2024 19:19:51 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Incorrect integer value: 'undefined' for column `emqx`.`traffic`.`traffic_state` at row 1 in C:\smartlabs\laragon\www\dashboard_users.php:82
+Stack trace:
+#0 C:\smartlabs\laragon\www\dashboard_users.php(82): mysqli->query('INSERT INTO `tr...')
+#1 {main}
+  thrown in C:\smartlabs\laragon\www\dashboard_users.php on line 82
+[08-Feb-2024 19:19:51 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Incorrect integer value: 'undefined' for column `emqx`.`traffic`.`traffic_state` at row 1 in C:\smartlabs\laragon\www\dashboard_users.php:82
+Stack trace:
+#0 C:\smartlabs\laragon\www\dashboard_users.php(82): mysqli->query('INSERT INTO `tr...')
+#1 {main}
+  thrown in C:\smartlabs\laragon\www\dashboard_users.php on line 82
+[08-Feb-2024 19:19:51 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Incorrect integer value: 'undefined' for column `emqx`.`traffic`.`traffic_state` at row 1 in C:\smartlabs\laragon\www\dashboard_users.php:82
+Stack trace:
+#0 C:\smartlabs\laragon\www\dashboard_users.php(82): mysqli->query('INSERT INTO `tr...')
+#1 {main}
+  thrown in C:\smartlabs\laragon\www\dashboard_users.php on line 82
+[08-Feb-2024 19:19:52 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Incorrect integer value: 'undefined' for column `emqx`.`traffic`.`traffic_state` at row 1 in C:\smartlabs\laragon\www\dashboard_users.php:82
+Stack trace:
+#0 C:\smartlabs\laragon\www\dashboard_users.php(82): mysqli->query('INSERT INTO `tr...')
+#1 {main}
+  thrown in C:\smartlabs\laragon\www\dashboard_users.php on line 82
+[08-Feb-2024 19:19:52 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Incorrect integer value: 'undefined' for column `emqx`.`traffic`.`traffic_state` at row 1 in C:\smartlabs\laragon\www\dashboard_users.php:82
+Stack trace:
+#0 C:\smartlabs\laragon\www\dashboard_users.php(82): mysqli->query('INSERT INTO `tr...')
+#1 {main}
+  thrown in C:\smartlabs\laragon\www\dashboard_users.php on line 82
+[08-Feb-2024 19:19:53 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Incorrect integer value: 'undefined' for column `emqx`.`traffic`.`traffic_state` at row 1 in C:\smartlabs\laragon\www\dashboard_users.php:82
+Stack trace:
+#0 C:\smartlabs\laragon\www\dashboard_users.php(82): mysqli->query('INSERT INTO `tr...')
+#1 {main}
+  thrown in C:\smartlabs\laragon\www\dashboard_users.php on line 82
+[08-Feb-2024 19:19:53 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Incorrect integer value: 'undefined' for column `emqx`.`traffic`.`traffic_state` at row 1 in C:\smartlabs\laragon\www\dashboard_users.php:82
+Stack trace:
+#0 C:\smartlabs\laragon\www\dashboard_users.php(82): mysqli->query('INSERT INTO `tr...')
+#1 {main}
+  thrown in C:\smartlabs\laragon\www\dashboard_users.php on line 82
+[08-Feb-2024 19:19:54 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Incorrect integer value: 'undefined' for column `emqx`.`traffic`.`traffic_state` at row 1 in C:\smartlabs\laragon\www\dashboard_users.php:82
+Stack trace:
+#0 C:\smartlabs\laragon\www\dashboard_users.php(82): mysqli->query('INSERT INTO `tr...')
+#1 {main}
+  thrown in C:\smartlabs\laragon\www\dashboard_users.php on line 82
+[08-Feb-2024 19:19:54 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Incorrect integer value: 'undefined' for column `emqx`.`traffic`.`traffic_state` at row 1 in C:\smartlabs\laragon\www\dashboard_users.php:82
+Stack trace:
+#0 C:\smartlabs\laragon\www\dashboard_users.php(82): mysqli->query('INSERT INTO `tr...')
+#1 {main}
+  thrown in C:\smartlabs\laragon\www\dashboard_users.php on line 82
+[08-Feb-2024 19:19:54 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Incorrect integer value: 'undefined' for column `emqx`.`traffic`.`traffic_state` at row 1 in C:\smartlabs\laragon\www\dashboard_users.php:82
+Stack trace:
+#0 C:\smartlabs\laragon\www\dashboard_users.php(82): mysqli->query('INSERT INTO `tr...')
+#1 {main}
+  thrown in C:\smartlabs\laragon\www\dashboard_users.php on line 82
+[08-Feb-2024 19:19:55 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Incorrect integer value: 'undefined' for column `emqx`.`traffic`.`traffic_state` at row 1 in C:\smartlabs\laragon\www\dashboard_users.php:82
+Stack trace:
+#0 C:\smartlabs\laragon\www\dashboard_users.php(82): mysqli->query('INSERT INTO `tr...')
+#1 {main}
+  thrown in C:\smartlabs\laragon\www\dashboard_users.php on line 82
+[08-Feb-2024 19:19:55 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Incorrect integer value: 'undefined' for column `emqx`.`traffic`.`traffic_state` at row 1 in C:\smartlabs\laragon\www\dashboard_users.php:82
+Stack trace:
+#0 C:\smartlabs\laragon\www\dashboard_users.php(82): mysqli->query('INSERT INTO `tr...')
+#1 {main}
+  thrown in C:\smartlabs\laragon\www\dashboard_users.php on line 82
+[08-Feb-2024 19:19:55 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Incorrect integer value: 'undefined' for column `emqx`.`traffic`.`traffic_state` at row 1 in C:\smartlabs\laragon\www\dashboard_users.php:82
+Stack trace:
+#0 C:\smartlabs\laragon\www\dashboard_users.php(82): mysqli->query('INSERT INTO `tr...')
+#1 {main}
+  thrown in C:\smartlabs\laragon\www\dashboard_users.php on line 82
+[08-Feb-2024 19:19:56 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Incorrect integer value: 'undefined' for column `emqx`.`traffic`.`traffic_state` at row 1 in C:\smartlabs\laragon\www\dashboard_users.php:82
+Stack trace:
+#0 C:\smartlabs\laragon\www\dashboard_users.php(82): mysqli->query('INSERT INTO `tr...')
+#1 {main}
+  thrown in C:\smartlabs\laragon\www\dashboard_users.php on line 82
+[08-Feb-2024 19:19:56 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Incorrect integer value: 'undefined' for column `emqx`.`traffic`.`traffic_state` at row 1 in C:\smartlabs\laragon\www\dashboard_users.php:82
+Stack trace:
+#0 C:\smartlabs\laragon\www\dashboard_users.php(82): mysqli->query('INSERT INTO `tr...')
+#1 {main}
+  thrown in C:\smartlabs\laragon\www\dashboard_users.php on line 82
+[08-Feb-2024 19:19:56 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Incorrect integer value: 'undefined' for column `emqx`.`traffic`.`traffic_state` at row 1 in C:\smartlabs\laragon\www\dashboard_users.php:82
+Stack trace:
+#0 C:\smartlabs\laragon\www\dashboard_users.php(82): mysqli->query('INSERT INTO `tr...')
+#1 {main}
+  thrown in C:\smartlabs\laragon\www\dashboard_users.php on line 82
+[08-Feb-2024 19:19:59 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Incorrect integer value: 'undefined' for column `emqx`.`traffic`.`traffic_state` at row 1 in C:\smartlabs\laragon\www\dashboard_users.php:82
+Stack trace:
+#0 C:\smartlabs\laragon\www\dashboard_users.php(82): mysqli->query('INSERT INTO `tr...')
+#1 {main}
+  thrown in C:\smartlabs\laragon\www\dashboard_users.php on line 82
+[08-Feb-2024 19:20:00 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Incorrect integer value: 'undefined' for column `emqx`.`traffic`.`traffic_state` at row 1 in C:\smartlabs\laragon\www\dashboard_users.php:82
+Stack trace:
+#0 C:\smartlabs\laragon\www\dashboard_users.php(82): mysqli->query('INSERT INTO `tr...')
+#1 {main}
+  thrown in C:\smartlabs\laragon\www\dashboard_users.php on line 82
+[08-Feb-2024 19:20:01 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Incorrect integer value: 'undefined' for column `emqx`.`traffic`.`traffic_state` at row 1 in C:\smartlabs\laragon\www\dashboard_users.php:82
+Stack trace:
+#0 C:\smartlabs\laragon\www\dashboard_users.php(82): mysqli->query('INSERT INTO `tr...')
+#1 {main}
+  thrown in C:\smartlabs\laragon\www\dashboard_users.php on line 82
+[08-Feb-2024 19:20:08 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Incorrect integer value: 'undefined' for column `emqx`.`traffic`.`traffic_state` at row 1 in C:\smartlabs\laragon\www\dashboard_users.php:82
+Stack trace:
+#0 C:\smartlabs\laragon\www\dashboard_users.php(82): mysqli->query('INSERT INTO `tr...')
+#1 {main}
+  thrown in C:\smartlabs\laragon\www\dashboard_users.php on line 82
+[08-Feb-2024 19:20:09 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Incorrect integer value: 'undefined' for column `emqx`.`traffic`.`traffic_state` at row 1 in C:\smartlabs\laragon\www\dashboard_users.php:82
+Stack trace:
+#0 C:\smartlabs\laragon\www\dashboard_users.php(82): mysqli->query('INSERT INTO `tr...')
+#1 {main}
+  thrown in C:\smartlabs\laragon\www\dashboard_users.php on line 82
+[08-Feb-2024 19:20:10 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Incorrect integer value: 'undefined' for column `emqx`.`traffic`.`traffic_state` at row 1 in C:\smartlabs\laragon\www\dashboard_users.php:82
+Stack trace:
+#0 C:\smartlabs\laragon\www\dashboard_users.php(82): mysqli->query('INSERT INTO `tr...')
+#1 {main}
+  thrown in C:\smartlabs\laragon\www\dashboard_users.php on line 82
+[08-Feb-2024 19:20:11 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Incorrect integer value: 'undefined' for column `emqx`.`traffic`.`traffic_state` at row 1 in C:\smartlabs\laragon\www\dashboard_users.php:82
+Stack trace:
+#0 C:\smartlabs\laragon\www\dashboard_users.php(82): mysqli->query('INSERT INTO `tr...')
+#1 {main}
+  thrown in C:\smartlabs\laragon\www\dashboard_users.php on line 82
